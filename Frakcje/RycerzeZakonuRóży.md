@@ -2,7 +2,7 @@
 
 ## Opis
 
-Zakon Czerwonej Róży stanowi najbogatszą i najliczniejszą z trzech głównych organizacji zakonnych w regionie Ur. Powszechnie znany wśród ludności pod nazwą „Czerwonoróżowcy", zakon czerpie swoją materialną potęgę z kopalni magicznego pyłu położonych na wyspie Delos na jeziorze Sotera.
+Zakon Czerwonej Róży stanowi najbogatszą i najliczniejszą z trzech głównych organizacji zakonnych w regionie Ur. Powszechnie znany wśród ludności pod nazwą „Czerwonoróżowcy" lub w skrócie "Czeru", zakon czerpie swoją materialną potęgę z kopalni magicznego pyłu położonych na wyspie Delos na jeziorze Sotera.
 
 ## Struktura ekonomiczna
 
@@ -34,4 +34,20 @@ Członkowie Zakonu Białej Róży cieszą się znacznym szacunkiem społecznym. 
 
 **Notatka – Potencjał militarny i zasoby**: Pomimo niskiego stanu osobowego sił zbrojnych, zakon dysponuje wysokiej klasy sprzętem rycerskim. Zakonni płatnerze wytwarzają miecze i zbroje uznawane przez specjalistów za dzieła równe artefaktom minionej ery – technologia i rzemiosło zakonu są uważane za niepowtarzalne w dzisiejszych czasach.
 
+# Rycerze Zakonu Czarnej Róży
 
+## Opis
+
+Zakon Czarnej Róży stanowił historycznie organizację rycerską specjalizującą się w archeologii oraz eksploracji struktur podziemnych. Klasztory zakonne, usytuowane w górskich kompleksach regionu Ur, gromadziły rozległe zbiory biblioteczne zawierające wiedzę o przedhistorycznych cywilizacjach. Zakon dysponował znacznymi zasobami archiwalnymi dotyczącymi dawnych kultur i technologii.
+
+W czasach współczesnych zakon uznawany jest za organizację całkowicie rozwiązaną. Dawne siedziby zakonne pozostają w ruinie, zamieszkane przez bandy orków oraz inne wrogie formy życia. Przyczyny upadku zakonu nie zostały w pełni udokumentowane, choć istnieją nieweryfikowalne hipotezy wskazujące na możliwe zaangażowanie Zakonu Białej Róży w procesie dezintegracji organizacji.
+
+## Struktura ekonomiczna
+
+Brak dostępnych danych dotyczących historycznego modelu ekonomicznego zakonu. W związku z całkowitym upadkiem organizacji, jakiekolwiek struktury gospodarcze przestały funkcjonować.
+
+## Pozycja społeczna i wpływ
+
+Zakon Czarnej Róży nie odgrywa żadnej roli w strukturze politycznej regionu Ur. Hipotetyczni ocaleni członkowie zakonu – gdyby tacy istniieli – najprawdopodobniej ukrywaliby przynależność do organizacji i zajmowali pozycje o marginalnym znaczeniu społecznym. Bezpośrednia obserwacja takiej działalności nie została potwierdzona.
+
+**Notatka – Artefakty i dziedzictwo materialne**: Pozostałości po Zakonie Czarnej Róży stanowią przedmiot zainteresowania poszukiwaczy skarbów oraz archeologów. Wyposażenie militarne zakonu – miecze, zbroje, przedmioty ceremonialne – wykazuje poziom rzemieślniczy przewyższający nawet uznane wyroby Zakonu Białej Róży. Ruiny klasztorów oraz podziemia regionu Ur mogą zawierać znaczne ilości takich artefaktów, choć eksploracja tych lokacji wiąże się z poważnym zagrożeniem ze strony ich obecnych mieszkańców.
