@@ -4,95 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "50979c25ccefb2e0",
+        "id": "73ffd921a3c0519b",
         "type": "tabs",
         "children": [
           {
-            "id": "656374de55c0ac16",
+            "id": "be1477a41ac812cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Świat/OpisŚwiata.md",
+                "file": "NPCs/Hera.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpisŚwiata"
+              "title": "Hera"
             }
           },
           {
-            "id": "24eb571c480bed14",
+            "id": "1727c5fc05705afd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frakcje/RycerzeZakonuRóży.md",
+                "file": "NPCs/Dornan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RycerzeZakonuRóży"
+              "title": "Dornan"
             }
           },
           {
-            "id": "ae4a0ea2cd53fb36",
+            "id": "64870faea73a6d8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frakcje/Gildie.md",
+                "file": "NPCs/Korsarze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gildie"
+              "title": "Korsarze"
             }
           },
           {
-            "id": "61cea9b8d18d563f",
+            "id": "752b995f13060393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frakcje/KorsarzePowietrzni.md",
+                "file": "NPCs/Niru.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KorsarzePowietrzni"
+              "title": "Niru"
             }
           },
           {
-            "id": "ac87643f5a0fb659",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frakcje/Nefilim.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nefilim"
-            }
-          },
-          {
-            "id": "7e815f26e79fb71f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lokacje/WielkaBiblioteka.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WielkaBiblioteka"
-            }
-          },
-          {
-            "id": "deb9e54c01ee9239",
+            "id": "35213ede18e8c5f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,91 +78,21 @@
             }
           },
           {
-            "id": "92452195a13d62de",
+            "id": "fafe9a4e2f8910c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Świat/KompleksKur-Nu-Gi-A.md",
+                "file": "NPCs/Ishara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KompleksKur-Nu-Gi-A"
-            }
-          },
-          {
-            "id": "eba84777181cbf21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/OliverSchreiber.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OliverSchreiber"
-            }
-          },
-          {
-            "id": "95ac2d32e212028e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/CohorsObscura.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CohorsObscura"
-            }
-          },
-          {
-            "id": "3ce728816bb40101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/HandlarzeGildiiGórniczej.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HandlarzeGildiiGórniczej"
-            }
-          },
-          {
-            "id": "a7b11a7bffa7f7c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/WolniHandlarze.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WolniHandlarze"
-            }
-          },
-          {
-            "id": "be3b5df9b1e197dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Hera.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hera"
+              "title": "Ishara"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -352,27 +254,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "be3b5df9b1e197dd",
+  "active": "35213ede18e8c5f8",
   "lastOpenFiles": [
-    "NPCs/OliverSchreiber.md",
-    "NPCs/Hera.md",
+    "NPCs/Ishara.md",
+    "NPCs/Skial.md",
     "NPCs/WolniHandlarze.md",
-    "NPCs/HandlarzeGildiiGórniczej.md",
-    "NPCs/HanldarzeGildiiGórniczej.md",
+    "NPCs/Hera.md",
+    "NPCs/Korsarze.md",
+    "NPCs/Niru.md",
+    "NPCs/Skial.md.tmp.36500.1766784815427",
+    "Untitled",
+    "NPCs/OliverSchreiber.md",
     "NPCs/CohorsObscura.md",
-    "Świat/OpisŚwiata.md",
+    "NPCs/Dornan.md",
+    "NPCs/HandlarzeGildiiGórniczej.md",
     "Świat/KompleksKur-Nu-Gi-A.md",
-    "NPCs",
     "Lokacje/MiasteczkoNadBiblioteką.md",
     "Lokacje/WielkaBiblioteka.md",
+    "Frakcje/Nefilim.md",
+    "Frakcje/KorsarzePowietrzni.md",
+    "Frakcje/Gildie.md",
+    "NPCs/HanldarzeGildiiGórniczej.md",
+    "Świat/OpisŚwiata.md",
+    "NPCs",
     "Lokacje/WielkaBilioteka/WielkaBiblioteka.md",
     "WielkaBiblioteka",
-    "Frakcje/Nefilim.md",
     "Lokacje/WielkaBilioteka",
     "Lokacje",
     "Frakcje/RycerzeZakonuRóży.md",
-    "Frakcje/KorsarzePowietrzni.md",
-    "Frakcje/Gildie.md",
     "CLAUDE.md.tmp.21158.1764014269723",
     "CLAUDE.md.tmp.21158.1764014262888",
     "Frakcje",
