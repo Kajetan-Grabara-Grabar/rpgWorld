@@ -78,6 +78,104 @@
             }
           },
           {
+            "id": "84f2b9c93fa4496e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lokacje/Katakumby.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Katakumby"
+            }
+          },
+          {
+            "id": "07d7f2c8de4696a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lokacje/Korytarze.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Korytarze"
+            }
+          },
+          {
+            "id": "3b0fdbb86085078f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lokacje/ZalaneJaskinie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZalaneJaskinie"
+            }
+          },
+          {
+            "id": "75bf521320536fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lokacje/Katedra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Katedra"
+            }
+          },
+          {
+            "id": "bbea3e689e541691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lokacje/Rotunda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rotunda"
+            }
+          },
+          {
+            "id": "bd8b4b1b07b9e54d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lokacje/TylneWejście.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TylneWejście"
+            }
+          },
+          {
+            "id": "cc8fcd442cc1d26b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lokacje/Katakumby.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Katakumby"
+            }
+          },
+          {
             "id": "fafe9a4e2f8910c6",
             "type": "leaf",
             "state": {
@@ -92,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -254,8 +352,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "35213ede18e8c5f8",
+  "active": "bd8b4b1b07b9e54d",
   "lastOpenFiles": [
+    "Lokacje/Rotunda.md",
+    "Lokacje/TylneWejście.md",
+    "Lokacje/Katedra.md",
+    "Lokacje/ZalaneJaskinie.md",
+    "Lokacje/Korytarze.md",
+    "Lokacje/Katakumby.md",
+    "AKT_1/Wprowadzenie.md",
+    "Lokacje/MiasteczkoNadBiblioteką.md",
+    "AKT_1",
     "NPCs/Ishara.md",
     "NPCs/Skial.md",
     "NPCs/WolniHandlarze.md",
@@ -263,13 +370,11 @@
     "NPCs/Korsarze.md",
     "NPCs/Niru.md",
     "NPCs/Skial.md.tmp.36500.1766784815427",
-    "Untitled",
     "NPCs/OliverSchreiber.md",
     "NPCs/CohorsObscura.md",
     "NPCs/Dornan.md",
     "NPCs/HandlarzeGildiiGórniczej.md",
     "Świat/KompleksKur-Nu-Gi-A.md",
-    "Lokacje/MiasteczkoNadBiblioteką.md",
     "Lokacje/WielkaBiblioteka.md",
     "Frakcje/Nefilim.md",
     "Frakcje/KorsarzePowietrzni.md",
@@ -281,13 +386,9 @@
     "WielkaBiblioteka",
     "Lokacje/WielkaBilioteka",
     "Lokacje",
-    "Frakcje/RycerzeZakonuRóży.md",
     "CLAUDE.md.tmp.21158.1764014269723",
     "CLAUDE.md.tmp.21158.1764014262888",
     "Frakcje",
-    "CLAUDE.md",
-    "README.md",
-    "Welcome.md",
     "Świat"
   ]
 }
