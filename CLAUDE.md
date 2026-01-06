@@ -30,10 +30,24 @@ rpgWorld/
 │   └── Nefilim.md             # Mysterious giant faction
 ├── Lokacje/                # Location documentation
 │   ├── WielkaBiblioteka.md           # Underground trading hub
-│   └── MiasteczkoNadBiblioteką.md    # Surface settlement
+│   ├── MiasteczkoNadBiblioteką.md    # Surface settlement
+│   ├── Katakumby.md                  # Necropolis/residential area
+│   ├── Korytarze.md                  # Main corridors
+│   ├── ZalaneJaskinie.md             # Flooded cave labyrinth
+│   ├── Katedra.md                    # Cathedral (Act 1 battle site)
+│   ├── Rotunda.md                    # Investigation hub
+│   └── TylneWejście.md               # Secret back entrance
 ├── NPCs/                   # Non-player character documentation
-│   └── OliverSchreiber.md  # Sample NPC with game statistics
-├── Welcome.md              # Obsidian default welcome note
+│   ├── OliverSchreiber.md  # Merchant cartographer (with full stat block)
+│   ├── Hera.md             # Red Rose Order sister
+│   ├── Dornan.md           # Red Rose Order knight
+│   ├── Korsarze.md         # Captain Solokrusz's expedition group
+│   ├── Niru.md             # Mining guild worker
+│   ├── Skial.md            # Cohors Liber agent (GM secret)
+│   └── Ishara.md           # Exploration guild member
+├── AKT_1/                  # Campaign Act 1 documentation
+│   └── Wprowadzenie.md     # Act 1 introduction and setup
+├── PROPOZYCJE_ULEPSZEŃ.md  # Improvement suggestions for future sessions
 ├── README.md               # Project readme
 └── CLAUDE.md               # This file
 ```
@@ -71,12 +85,30 @@ Documents specific places within the world. Locations follow encyclopedic format
 **Current locations**:
 - **Wielka Biblioteka** (Great Library): Underground chamber in Kur-Nu-Gi-A complex, now a trading hub
 - **Miasteczko Nad Biblioteką** (Town Above the Library): Surface settlement serving explorers
+- **Katakumby**: Necropolis/residential area with mechanical monsters
+- **Korytarze**: Main corridors connecting locations
+- **Zalane Jaskinie**: Flooded cave labyrinth with water spirits
+- **Katedra**: Cathedral chamber, site of Act 1 battle between Nefilim and Red Rose Order
+- **Rotunda**: Investigation hub with evidence of Nefilim presence
+- **Tylne Wejście**: Secret back entrance controlled by White Rose Order
 
 #### NPCs/ folder: Non-player character documentation
 Character sheets for important NPCs, including game statistics and GM notes.
 
 **Current NPCs**:
-- **Oliver Schreiber**: Merchant cartographer, potential quest giver and recurring character
+- **Oliver Schreiber**: Merchant cartographer, full stat block, recurring character
+- **Siostra Hera**: Red Rose Order charity worker (facade)
+- **Brat Dornan**: Red Rose Order guard with pearl-powered sword
+- **Grupa korsarzy**: Captain Solokrusz's expedition team (7 members)
+- **Pucybut Niru**: Young mining guild worker, demonstrates exploitation
+- **Skial**: One-eyed warrior, secretly Cohors Liber agent (GM-only info)
+- **Ishara**: Exploration guild member, pragmatic professional
+
+#### AKT_1/ folder: Campaign act documentation
+Contains introduction, timeline, and plot structure for Act 1.
+
+**Current files**:
+- **Wprowadzenie.md**: Act 1 setup - "golems escape" incident, Lord Ejdolon's response, hidden truth about Nefilim attack
 
 ### Faction Documentation Format
 
@@ -103,8 +135,9 @@ Location documents follow a similar encyclopedic structure:
 1. **Title (H1)**: Location name
 2. **Opis section (H2)**: General overview and significance
 3. **Specialized sections (H2)**: As appropriate for location type
-   - Examples: "Historia odkrycia", "Układ przestrzenny", "Dostęp i transport", "Infrastruktura komercyjna"
-4. **Notes section**: Key observations prefaced with **"Notatka – [Topic]"** in bold
+   - Examples: "Układ przestrzenny", "Zagrożenia", "Łupy i zasoby", "Nawigacja"
+4. **Separator (---)**: Marks transition to GM-only content
+5. **Notatki dla Mistrza Gry (H2)**: GM notes with observations prefaced with **"Notatka – [Topic]"** in bold
 
 **Writing style**: Formal, encyclopedic tone matching faction documentation.
 
@@ -112,19 +145,29 @@ Location documents follow a similar encyclopedic structure:
 
 NPC documents combine game statistics with narrative information:
 
+**With full stat block** (e.g., Oliver Schreiber):
 1. **Title (H1)**: NPC name
 2. **Informacje podstawowe (H2)**: Table with identity, motivation, origin, level, type
 3. **Statystyki (H2)**: Table with attribute dice (DEX, INS, MIG, WLP)
 4. **Punkty (H2)**: Table with HP, WP, Initiative
 5. **Odporności elementarne (H2)**: Table with elemental resistances
 6. **Uzbrojenie (H2)**: Tables for melee and ranged attacks
-7. **Notatki dla Mistrza Gry (H2)**: GM notes with subsections:
-   - Wygląd i osobowość
-   - Profesja i umiejętności
-   - Aktualna sytuacja
-   - Cele i motywacje
-   - Haki fabularne
-   - Sugerowane wykorzystanie
+7. **Notatki dla Mistrza Gry (H2)**: GM notes with subsections
+
+**Without stat block** (most NPCs):
+1. **Title (H1)**: NPC name
+2. **Notatki dla Mistrza Gry (H2)**: GM notes with subsections:
+   - **Wygląd i osobowość**: Physical description and personality
+   - **Profesja i umiejętności**: Profession and capabilities
+   - **Aktualna sytuacja**: Current situation and location
+   - **Cele i motywacje**: Goals and motivations
+   - **Haki fabularne**: Plot hooks and narrative connections
+   - **Sugerowane wykorzystanie**: Suggested ways to use the NPC
+
+**Special formatting**:
+- Use **"Oficjalnie"** and **"Rzeczywistość (informacja tylko dla MG)"** to separate player-visible info from GM secrets
+- Use **"Notatka – [Topic]"** for key observations
+- Mark secret identities and hidden information clearly
 
 **Writing style**: Game statistics use tables for clarity. GM notes use formal but practical tone.
 
@@ -133,7 +176,8 @@ NPC documents combine game statistics with narrative information:
 The project leverages Obsidian's features:
 
 - **Wikilinks**: Cross-references between notes using `[[link syntax]]`
-  - Wikilink conventions: `[[Region Ur]]` for world regions, `[[Rycerze Zakonu Czerwonej Róży]]` for factions, `[[Wielka Biblioteka]]` for locations
+  - Standard format: `[[FileName]]` or `[[FileName|Display Text]]`
+  - Examples: `[[Nefilim]]`, `[[Rycerze Zakonu Czerwonej Róży]]`, `[[NPCs/OliverSchreiber|Oliver Schreiber]]`
   - Enables automatic backlink tracking across the knowledge base
 - **Backlinks**: Automatic tracking of relationships between documents
   - Essential for finding all references to a given faction, location, or character
@@ -158,9 +202,10 @@ All documentation follows a **formal, encyclopedic style**:
 
 ### Content Organization
 
-- **Separation of player and GM knowledge**: Documents like KompleksKur-Nu-Gi-A.md clearly mark GM-only sections
+- **Separation of player and GM knowledge**: Documents clearly mark GM-only sections with headers or special formatting
 - **Interconnected factions**: Faction documents reference each other (e.g., Korsarze depend on Zakon Czerwonej Róży for magical dust)
 - **Locations tied to factions**: Guild control of locations is documented (e.g., mining guild controls Wielka Biblioteka infrastructure)
+- **Campaign structure**: Acts (AKT_1, AKT_2, etc.) contain plot-specific documentation separate from evergreen world content
 
 ## Obsidian Configuration
 
@@ -182,11 +227,24 @@ All documentation follows a **formal, encyclopedic style**:
 
 1. **Adding new factions**: Create markdown files in `Frakcje/` following the faction format
 2. **Adding new locations**: Create markdown files in `Lokacje/` following the location format
-3. **Adding new NPCs**: Create markdown files in `NPCs/` following the NPC format
-4. **Linking between notes**: Use Obsidian wikilink syntax: `[[Note Name]]`
+3. **Adding new NPCs**: Create markdown files in `NPCs/` following the NPC format (with or without stat block)
+4. **Linking between notes**: Use Obsidian wikilink syntax: `[[Note Name]]` or `[[Folder/FileName]]`
 5. **Organizing structure**: Use heading hierarchy (H1-H6) to structure content within documents
 6. **Tagging content**: Add tags at the bottom of documents for categorization
 7. **Using properties**: Add metadata blocks at the top of files for structured information
+
+### Standardization Process
+
+When standardizing existing documents:
+1. Read the source file carefully
+2. Correct orthographic errors (common: "eksporacja" → "eksploracji", "nienatrulanie" → "nienaturalnie")
+3. Apply appropriate format (Faction/Location/NPC)
+4. Add proper heading hierarchy
+5. Add wikilinks to related content: `[[TargetFile]]` or `[[Folder/TargetFile|Display Name]]`
+6. Use **bold** for emphasis on first mentions of important terms
+7. Add **"Notatka – [Topic]"** sections for key observations
+8. Separate GM-only content clearly
+9. Use formal, encyclopedic tone throughout
 
 ### Markdown Best Practices
 
@@ -223,12 +281,25 @@ git push             # Push to remote (github.com/Kajetan-Grabara-Grabar/rpgWorl
 
 ### Expand World Documentation
 
-1. Create new markdown files in appropriate folder (`Świat/`, `Frakcje/`, `Lokacje/`, `NPCs/`)
-2. Follow the relevant documentation format (faction, location, or NPC)
+1. Create new markdown files in appropriate folder (`Świat/`, `Frakcje/`, `Lokacje/`, `NPCs/`, `AKT_X/`)
+2. Follow the relevant documentation format (faction, location, NPC, or act)
 3. Add wikilinks to connect to existing documentation
 4. Use properties for structured metadata
 5. Tag content appropriately for easy discovery
 6. Maintain formal, encyclopedic writing style
+
+### Standardize Existing Documents
+
+1. Read original content
+2. Identify document type (Faction/Location/NPC)
+3. Apply appropriate format template
+4. Fix orthographic errors
+5. Add proper heading hierarchy (H1 for title, H2 for sections)
+6. Add wikilinks to related content
+7. Bold key terms on first mention
+8. Add **"Notatka – [Topic]"** sections
+9. Separate GM content with `---` separator and proper headers
+10. Rewrite in formal, encyclopedic tone
 
 ### Review Relationships
 

@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lokacje/TylneWejście.md",
+                "file": "PROPOZYCJE_ULEPSZEŃ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TylneWejście"
+              "title": "PROPOZYCJE_ULEPSZEŃ"
             }
           },
           {
@@ -181,16 +181,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ishara.md",
+                "file": "Świat/OpisŚwiata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ishara"
+              "title": "OpisŚwiata"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -352,18 +352,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "bd8b4b1b07b9e54d",
+  "active": "fafe9a4e2f8910c6",
   "lastOpenFiles": [
-    "Lokacje/Rotunda.md",
-    "Lokacje/TylneWejście.md",
-    "Lokacje/Katedra.md",
+    "Świat/KompleksKur-Nu-Gi-A.md",
+    "NPCs/Ishara.md",
+    "PROPOZYCJE_ULEPSZEŃ.md",
+    "AKT_1/Timeline.md",
+    "AKT_1/Wprowadzenie.md",
+    "AKT_1/QuickReference.md",
+    "AKT_1/SekretnyMG.md",
     "Lokacje/ZalaneJaskinie.md",
+    "Lokacje/WielkaBiblioteka.md",
+    "Lokacje/TylneWejście.md",
+    "CLAUDE.md",
+    "Lokacje/Rotunda.md",
+    "Lokacje/Katedra.md",
     "Lokacje/Korytarze.md",
     "Lokacje/Katakumby.md",
-    "AKT_1/Wprowadzenie.md",
     "Lokacje/MiasteczkoNadBiblioteką.md",
     "AKT_1",
-    "NPCs/Ishara.md",
     "NPCs/Skial.md",
     "NPCs/WolniHandlarze.md",
     "NPCs/Hera.md",
@@ -374,15 +381,8 @@
     "NPCs/CohorsObscura.md",
     "NPCs/Dornan.md",
     "NPCs/HandlarzeGildiiGórniczej.md",
-    "Świat/KompleksKur-Nu-Gi-A.md",
-    "Lokacje/WielkaBiblioteka.md",
     "Frakcje/Nefilim.md",
-    "Frakcje/KorsarzePowietrzni.md",
-    "Frakcje/Gildie.md",
-    "NPCs/HanldarzeGildiiGórniczej.md",
-    "Świat/OpisŚwiata.md",
     "NPCs",
-    "Lokacje/WielkaBilioteka/WielkaBiblioteka.md",
     "WielkaBiblioteka",
     "Lokacje/WielkaBilioteka",
     "Lokacje",

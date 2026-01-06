@@ -1,24 +1,14 @@
 # Cohors Obscura
 
-## Opis grupy
+## Notatki dla Mistrza Gry
 
-Cohors Obscura to jedenastoosobowy oddział Nefilim aktualnie prowadzący eksplorację kompleksu Kur-Nu-Gi-A. Jednostka składa się z sześciu weteranów oraz pięciu nowicjuszy, reprezentujących pełne spektrum specjalizacji bojowych i wsparcia technicznego.
+### Wygląd i osobowość
 
-### Wygląd
+Cohors Obscura to jedenastoosobowy oddział [[Nefilim]] aktualnie prowadzący eksplorację [[KompleksKur-Nu-Gi-A|kompleksu Kur-Nu-Gi-A]]. Jednostka składa się z sześciu weteranów oraz pięciu nowicjuszy, reprezentujących pełne spektrum specjalizacji bojowych i wsparcia technicznego.
 
 Członkowie Cohors Obscura prezentują się jako wyjątkowo wysocy mężczyźni (około 2,5 metra wzrostu) ubrani w ciężkie czarne pancerze płytowe. Wyposażenie weteranów pokrywa niemal każdą część ciała, podczas gdy nowicjusze noszą pancerze ograniczone do kluczowych lokacji anatomicznych. Pomimo znacznej masy ekwipunku, członkowie oddziału poruszają się stosunkowo cicho dzięki specjalistycznym urządzeniom zagłuszającym odgłosy kroków.
 
-### Lokalizacja w kampanii
-
-**Wczesna faza**: Grupę można spotkać rozproszonych w obrębie Wielkiej Biblioteki oraz czekających w kolejce do windy prowadzącej do głębszych partii kompleksu.
-
-**Późniejsza faza**: Cohors Obscura operuje w Starożytnym Mieście na najniższych poziomach kompleksu.
-
-### Postawa wobec graczy
-
-Oddział zachowuje się neutralnie wobec innych eksploratorów. Niemniej w przypadku prowokacji lub agresji ze strony graczy, Nefilim będą walczyć zaciekle, wykorzystując pełen arsenał zaawansowanej technologii.
-
-## Skład osobowy
+### Skład osobowy
 
 | Ranga | Imię | Funkcja | Charakterystyka |
 |-------|------|---------|-----------------|
@@ -34,13 +24,35 @@ Oddział zachowuje się neutralnie wobec innych eksploratorów. Niemniej w przyp
 | **Kadet** | Brenn | Wsparcie ogniowe | Jego ciężkie kroki słyszane są z daleka. Trzyma się blisko grupy, rzadko wchodzi w kontakt z innymi. |
 | **Kadet** | Cassian | Strzelec wyborowy | Wygadany, ciekawy świata. Często dopytuje o rzeczy, których nie zna. |
 
-## Notatki dla Mistrza Gry
+### Profesja i umiejętności
 
-### Wykorzystanie w kampanii
+Oddział specjalny [[Nefilim]] wyspecjalizowany w eksploracji podziemnych kompleksów i poszukiwaniu pradawnych artefaktów. Każdy członek pełni konkretną rolę taktyczną:
+- **Dowodzenie**: Thorn (dowódca), Ragnar (zastępca)
+- **Rozpoznanie**: Lazen (zwiady), Rhedon (kartografia), Sorin (zwiad)
+- **Wsparcie**: Aurel (medyk), Thysar (saper)
+- **Walka**: Vorrik (łowca), Helran (strzelec), Brenn (wsparcie ogniowe), Cassian (strzelec wyborowy)
+
+**Technologia**: Zaawansowane wyposażenie (komputery nadgarstkowe, skanery, urządzenia medyczne, systemy tłumienia dźwięku, broń energetyczna).
+
+### Aktualna sytuacja
+
+**Wczesna faza kampanii**: Grupę można spotkać w [[Wielka Biblioteka|Wielkiej Bibliotece]], gdzie oczekują w kolejce do windy prowadzącej do głębszych partii kompleksu. Członkowie oddziału są rozproszeni, niektórzy obserwują otoczenie, inni sprawdzają wyposażenie.
+
+**Późniejsza faza kampanii**: Cohors Obscura operuje w Starożytnym Mieście na najniższych poziomach kompleksu, poszukując konkretnych artefaktów lub źródeł magii.
+
+**Postawa wobec graczy**: Oddział zachowuje się neutralnie wobec innych eksploratorów. Niemniej w przypadku prowokacji lub agresji ze strony graczy, [[Nefilim]] będą walczyć zaciekle, wykorzystując pełen arsenał zaawansowanej technologii.
+
+### Cele i motywacje
+
+Poszukiwanie źródeł magii i pradawnych artefaktów zgodnie z misją [[Nefilim]]. Oddział ma konkretny cel eksploracyjny, choć jego szczegóły są tajemnicą. Rhedon aktywnie kartografuje kompleks, Thysar przygotowuje ładunki wybuchowe do potencjalnego wyburzenia przeszkód, a Aurel bada biologiczne próbki z podziemi.
+
+### Haki fabularne
+
+Cohors Obscura może służyć jako kluczowa grupa w kampanii:
 
 **Wczesne spotkanie (Wielka Biblioteka)**:
-- Cohors Obscura może służyć jako tajemnicza, wysoko wyposażona grupa eksploratorów
-- Gracze nie powinni od razu rozpoznać ich jako Nefilim
+- Tajemnicza, wysoko wyposażona grupa eksploratorów
+- Gracze nie powinni od razu rozpoznać ich jako [[Nefilim]]
 - Interakcje z poszczególnymi członkami mogą ujawnić fragmenty informacji o technologii i celach
 - Niektórzy członkowie (Cassian, Aurel) są bardziej rozmowni i mogą nawiązać kontakt
 - Inni (Ragnar, Sorin) mogą wzbudzić podejrzenia swoim zachowaniem
@@ -48,38 +60,40 @@ Oddział zachowuje się neutralnie wobec innych eksploratorów. Niemniej w przyp
 **Późniejsze spotkanie (Starożytne Miasto)**:
 - Grupa może być napotkana w pobliżu ważnych lokacji lub artefaktów
 - Potencjalny konflikt o zasoby lub dostęp do kluczowych obszarów
-- Możliwość ujawnienia prawdziwej natury Nefilim i ich celów
+- Możliwość ujawnienia prawdziwej natury [[Nefilim]] i ich celów
 
-### Dynamika grupy
-
-- **Hierarchia**: Wyraźna struktura dowodzenia (Thorn → Ragnar → weterani → kadeci)
-- **Specjalizacje**: Każdy członek pełni konkretną rolę taktyczną
-- **Technologia**: Zaawansowane wyposażenie (komputery nadgarstkowe, skanery, urządzenia medyczne, systemy tłumienia dźwięku)
-- **Cel**: Poszukiwanie źródeł magii i pradawnych artefaktów (zgodnie z dokumentacją frakcji Nefilim)
-
-### Potencjalne scenariusze
-
-1. **Neutralna współpraca**: Gracze i Cohors Obscura mogą współpracować przy eksploracji niebezpiecznych obszarów
-2. **Ujawnienie tożsamości**: Moment, gdy gracze odkrywają, że to Nefilim, może być kluczowym zwrotem fabularnym
-3. **Konkurencja**: Wyścig do tego samego artefaktu lub lokacji
-4. **Konflikt**: Jeśli gracze zagrażają misji Nefilim lub odkryją zbyt wiele
-5. **Źródło informacji**: Cassian lub Aurel mogą nieświadomie ujawnić informacje o planach Nefilim
-
-### Haki fabularne
-
+**Konkretne haki**:
 - Rhedon kartografuje kompleks – gracze mogą próbować zdobyć kopię mapy
 - Thysar nosi ładunki wybuchowe – co planują wysadzić?
 - Urządzenia medyczne Aurela używają nieznanej technologii
 - Ragnar może być rozpoznany jako osoba odpowiedzialna za wcześniejsze incydenty
 - Oddział poszukuje czegoś konkretnego – co dokładnie?
 
+**Notatka – Dynamika grupy**: Wyraźna hierarchia dowodzenia (Thorn → Ragnar → weterani → kadeci). Weterani traktują nowicjuszy protekcjonalnie, ale w walce wszyscy działają jak dobrze naoliwiona maszyna.
+
+**Notatka – Źródło informacji**: Cassian lub Aurel mogą nieświadomie ujawnić informacje o planach [[Nefilim]]. Cassian jest ciekawy świata i może zdradzić szczegóły w zamian za informacje. Aurel, będąc gadatliwym medykiem, może wspomnieć o "próbkach biologicznych" lub "skanowaniu źródeł mocy".
+
+**Notatka – Powiązanie z Cohors Helios**: Cohors Obscura ma mapę od [[NPCs/Skial|Cohors Helios]] (wspomniany w Wprowadzeniu do Aktu 1). To oznacza, że wiedzą o [[Lokacje/Katedra|bitwie w katedrze]] i mogą szybko dotrzeć do kluczowych lokacji.
+
+### Sugerowane wykorzystanie
+
+1. **Neutralna współpraca**: Gracze i Cohors Obscura mogą współpracować przy eksploracji niebezpiecznych obszarów
+2. **Ujawnienie tożsamości**: Moment, gdy gracze odkrywają, że to [[Nefilim]], może być kluczowym zwrotem fabularnym
+3. **Konkurencja**: Wyścig do tego samego artefaktu lub lokacji
+4. **Konflikt**: Jeśli gracze zagrażają misji [[Nefilim]] lub odkryją zbyt wiele
+5. **Źródło informacji**: Niektórzy członkowie mogą nieświadomie ujawnić plany
+6. **Recurring antagoniści**: Grupa może pojawiać się wielokrotnie w kampanii jako konkurenci lub wrogowie
+7. **Potencjalni sojusznicy**: W wyjątkowych okolicznościach mogą pomóc graczom przeciwko wspólnemu zagrożeniu
+
 ---
 
-# Statystyki bojowe
+## Statystyki bojowe
 
-## Nefilim Weteran
+**UWAGA**: Użyj tych statystyk tylko jeśli dojdzie do konfliktu. Cohors Obscura to bardzo niebezpieczni przeciwnicy – walka z całym oddziałem może być śmiertelna dla graczy.
 
-### Informacje podstawowe
+### Nefilim Weteran (Thorn, Ragnar, Lazen, Rhedon, Aurel, Thysar)
+
+#### Informacje podstawowe
 
 | Parametr        | Wartość                   |
 | --------------- | ------------------------- |
@@ -89,7 +103,7 @@ Oddział zachowuje się neutralnie wobec innych eksploratorów. Niemniej w przyp
 | **Poziom**      | LV 30                     |
 | **Typ**         | Humanoid                  |
 
-### Statystyki
+#### Statystyki
 
 | Atrybut | Wartość |
 | ------- | ------- |
@@ -98,7 +112,7 @@ Oddział zachowuje się neutralnie wobec innych eksploratorów. Niemniej w przyp
 | **MIG** | d16     |
 | **WLP** | d12     |
 
-### Punkty
+#### Punkty
 
 | Typ      | Wartość |
 | -------- | ------- |
@@ -106,7 +120,7 @@ Oddział zachowuje się neutralnie wobec innych eksploratorów. Niemniej w przyp
 | **WP**   | 150     |
 | **Init** | 12      |
 
-### Odporności elementarne
+#### Odporności elementarne
 
 | Element      | Modyfikator |
 | ------------ | ----------- |
@@ -120,15 +134,15 @@ Oddział zachowuje się neutralnie wobec innych eksploratorów. Niemniej w przyp
 | **Light**    | —           |
 | **Poison**   | RS          |
 
-### Uzbrojenie
+#### Uzbrojenie
 
-#### Ataki wręcz
+**Ataki wręcz**:
 
 | Broń                       | Formuła trafienia | Obrażenia | Typ      |
 | -------------------------- | ----------------- | --------- | -------- |
 | **Noże szturmowe Nefilim** | (DEX + MIG) +5    | (HR + 10) | Physical |
 
-#### Ataki dystansowe
+**Ataki dystansowe**:
 
 | Broń                        | Formuła trafienia | Obrażenia | Typ                                  |
 | --------------------------- | ----------------- | --------- | ------------------------------------ |
@@ -136,9 +150,9 @@ Oddział zachowuje się neutralnie wobec innych eksploratorów. Niemniej w przyp
 
 ---
 
-## Nefilim Nowicjusz
+### Nefilim Nowicjusz (Vorrik, Helran, Sorin, Brenn, Cassian)
 
-### Informacje podstawowe
+#### Informacje podstawowe
 
 | Parametr        | Wartość                   |
 | --------------- | ------------------------- |
@@ -148,7 +162,7 @@ Oddział zachowuje się neutralnie wobec innych eksploratorów. Niemniej w przyp
 | **Poziom**      | LV 20                     |
 | **Typ**         | Humanoid                  |
 
-### Statystyki
+#### Statystyki
 
 | Atrybut | Wartość |
 | ------- | ------- |
@@ -157,7 +171,7 @@ Oddział zachowuje się neutralnie wobec innych eksploratorów. Niemniej w przyp
 | **MIG** | d12     |
 | **WLP** | d8      |
 
-### Punkty
+#### Punkty
 
 | Typ      | Wartość |
 | -------- | ------- |
@@ -165,7 +179,7 @@ Oddział zachowuje się neutralnie wobec innych eksploratorów. Niemniej w przyp
 | **WP**   | 150     |
 | **Init** | 10      |
 
-### Odporności elementarne
+#### Odporności elementarne
 
 | Element      | Modyfikator |
 | ------------ | ----------- |
@@ -179,15 +193,15 @@ Oddział zachowuje się neutralnie wobec innych eksploratorów. Niemniej w przyp
 | **Light**    | —           |
 | **Poison**   | RS          |
 
-### Uzbrojenie
+#### Uzbrojenie
 
-#### Ataki wręcz
+**Ataki wręcz**:
 
 | Broń                       | Formuła trafienia | Obrażenia | Typ      |
 | -------------------------- | ----------------- | --------- | -------- |
 | **Noże szturmowe Nefilim** | (DEX + MIG) +5    | (HR + 10) | Physical |
 
-#### Ataki dystansowe
+**Ataki dystansowe**:
 
 | Broń                         | Formuła trafienia | Obrażenia | Typ                      |
 | ---------------------------- | ----------------- | --------- | ------------------------ |
