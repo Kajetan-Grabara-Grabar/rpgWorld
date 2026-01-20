@@ -10,19 +10,19 @@ Członkowie Cohors Obscura prezentują się jako wyjątkowo wysocy mężczyźni 
 
 ### Skład osobowy
 
-| Ranga | Imię | Funkcja | Charakterystyka |
-|-------|------|---------|-----------------|
-| **Porucznik** | Caelan Thorn | Dowódca | Stosunkowo pogodny. Nie wykazuje agresji, jednak wyraźnie reaguje negatywnie na pytania dotyczące pochodzenia i celów ekspedycji. |
-| **Sierżant** | Ragnar | Zastępca dowódcy | Traktuje wszystkich z wyższością. Niebezpieczny. Emanuje aurą rasowego przestępcy. |
-| **Weteran** | Lazen | Specjalista rozpoznania i zwiadu | Obserwuje z dystansu. Nigdy nie angażuje się w bezpośrednie konfrontacje. |
-| **Weteran** | Rhedon | Radiooperator i kartograf | Cichy. Większość czasu spędza analizując odczyty ze skanerów wyświetlanych na komputerze nadgarstkowym. |
-| **Weteran** | Aurel | Medyk | Dość gadatliwy. Wyposażony w urządzenie medyczne przyczepione do nadgarstka z wystającą wielką igłą i zbiornikami z płynem. |
-| **Weteran** | Thysar | Saper | Nosi poszarpany pancerz oraz sporą torbę udową z ładunkami wybuchowymi. Mało mówny. |
-| **Kadet** | Vorrik | Łowca, traper | Zadziorny. Lubi się przechwalać. |
-| **Kadet** | Helran | Strzelec, tropiciel | Trzyma się blisko Rhedona, asystuje przy kartografii. |
-| **Kadet** | Sorin | Strzelec, zwiadowca | Nieufny. Obserwuje otoczenie z dystansu i unika kontaktu z obcymi. |
-| **Kadet** | Brenn | Wsparcie ogniowe | Jego ciężkie kroki słyszane są z daleka. Trzyma się blisko grupy, rzadko wchodzi w kontakt z innymi. |
-| **Kadet** | Cassian | Strzelec wyborowy | Wygadany, ciekawy świata. Często dopytuje o rzeczy, których nie zna. |
+| Ranga         | Imię         | Funkcja                          | Charakterystyka                                                                                                                   |
+| ------------- | ------------ | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Porucznik** | Caelan Thorn | Dowódca                          | Stosunkowo pogodny. Nie wykazuje agresji, jednak wyraźnie reaguje negatywnie na pytania dotyczące pochodzenia i celów ekspedycji. |
+| **Sierżant**  | Ragnar       | Zastępca dowódcy                 | Traktuje wszystkich z wyższością. Niebezpieczny. Emanuje aurą rasowego przestępcy.                                                |
+| **Weteran**   | Lazen        | Specjalista rozpoznania i zwiadu | Obserwuje z dystansu. Nigdy nie angażuje się w bezpośrednie konfrontacje.                                                         |
+| **Weteran**   | Rhedon       | Radiooperator i kartograf        | Cichy. Większość czasu spędza analizując odczyty ze skanerów wyświetlanych na komputerze nadgarstkowym.                           |
+| **Weteran**   | Aurel        | Medyk                            | Dość gadatliwy. Wyposażony w urządzenie medyczne przyczepione do nadgarstka z wystającą wielką igłą i zbiornikami z płynem.       |
+| **Weteran**   | Thysar       | Saper                            | Nosi poszarpany pancerz oraz sporą torbę udową z ładunkami wybuchowymi. Mało mówny.                                               |
+| **Kadet**     | Vorrik       | Łowca, traper                    | Zadziorny. Lubi się przechwalać.                                                                                                  |
+| **Kadet**     | Helran       | Strzelec, tropiciel              | Trzyma się blisko Rhedona, asystuje przy kartografii.                                                                             |
+| **Kadet**     | Sorin        | Strzelec, zwiadowca              | Nieufny. Obserwuje otoczenie z dystansu i unika kontaktu z obcymi.                                                                |
+| **Kadet**     | Brenn        | Wsparcie ogniowe                 | Jego ciężkie kroki słyszane są z daleka. Trzyma się blisko grupy, rzadko wchodzi w kontakt z innymi.                              |
+| **Kadet**     | Cassian      | Strzelec wyborowy                | Wygadany, ciekawy świata. Często dopytuje o rzeczy, których nie zna.                                                              |
 
 ### Profesja i umiejętności
 
