@@ -32,7 +32,7 @@ Wyższe piętra dwóch z trzech kamienic pełnią funkcję **mieszkań służbow
 
 W obrębie kompleksu siedziby działa **pneumatyczna sieć tub komunikacyjnych** – system rur i kapsuł napędzany sprężonym powietrzem, biegnący między piętrami i poszczególnymi gabinetami trzech sąsiadujących kamienic. Sieć przesyła **kapsuły z dokumentami, formularzami i krótkimi notatkami**, drastycznie skracając czas wymiany informacji w obrębie kompleksu – sprawa wymagająca klasycznie gońca załatwiana jest w sekundach.
 
-System stanowi **hybrydę mechaniki pneumatycznej i archemagitechu** – sprężarki napędzane są pyłem rafinowanym, a same tuby i zawory wykonane są z mosiądzu i miedzi. Charakterystyczne **stuknięcie kapsuły** lądującej w stacji odbiorczej słyszane jest regularnie w korytarzach i gabinetach, stanowiąc tło dźwiękowe pracy gildii.
+System stanowi **hybrydę mechaniki pneumatycznej i archeomagitechu** – sprężarki napędzane są pyłem rafinowanym, a same tuby i zawory wykonane są z mosiądzu i miedzi. Charakterystyczne **stuknięcie kapsuły** lądującej w stacji odbiorczej słyszane jest regularnie w korytarzach i gabinetach, stanowiąc tło dźwiękowe pracy gildii.
 
 Konserwacją całego systemu zajmuje się **gnom Grunaldi** – stały pracownik gildii i główny pan złota rączka kompleksu (zob. sekcja **Personel** niżej).
 
@@ -41,6 +41,33 @@ Konserwacją całego systemu zajmuje się **gnom Grunaldi** – stały pracownik
 Koszary mieszczą stałą **jednostkę zbrojną gildii** – kilkudziesięciu zaprawionych w boju eksploratorów wynajmowanych przez gildię na czas dłuższy niż pojedyncze zlecenie. Z piwnic koszar zejście prowadzi do **podmiejskich katakumb szkoleniowych** – częściowo naturalnych, częściowo wykutych podziemi, w których prowadzone są kursy poruszania się w ciasnych przestrzeniach, walki w mroku, neutralizacji pułapek i obsługi broni dystansowej.
 
 Katakumby szkoleniowe nie są połączone z głębszymi katakumbami pod [[AKT_2/Lokacje/Kis-Amira|Kis-Amirą]] – choć krążą plotki, że jedno z odgałęzień zostało dawno temu zamurowane przez samą gildię i być może prowadziło dalej.
+
+## Personel
+
+### Grunaldi – pan złota rączka
+
+**Grunaldi** to mały, **siwy gnom** o pogodnej twarzy i drobnych dłoniach pokrytych smarem. Jest **wesoły, gadatliwy i serdeczny** – chętnie nawiązuje rozmowę z każdym, kto zajrzy do jego pokoju. W przeszłości pływał pod komendą **[[NPCs/Korsarze|kapitana Solokrusza]]** jako mechanik pyłowy; po nieszczęśliwym wypadku, w którym stracił obie nogi, Solokrusz – który pozostał z nim w bliskich relacjach – załatwił mu stałą pracę w gildii.
+
+Zapytany o czasy korsarskie Grunaldi **bardzo miło wspomina** dawne wyprawy i z rozrzewnieniem opowiada anegdoty o flocie. Mimo utraty nóg **nie narzeka** na swój los – traktuje sytuację z gnomim pragmatyzmem i sam zbudował sobie sprzęt umożliwiający normalne funkcjonowanie.
+
+#### Pokój Grunaldiego
+
+Grunaldi pracuje w **pokoiku na końcu korytarza** w głównym budynku siedziby. Pomieszczenie służy mu jednocześnie za biuro i warsztat:
+
+- **Biurko ze sporą ilością papieru** – plany, schematy, formularze konserwacyjne, korespondencja z gildyjnymi działami.
+- **Stół warsztatowy pod oknem** – z narzędziami precyzyjnymi, fragmentami pneumatycznych mechanizmów, tubami i zaworami w trakcie naprawy.
+- **Kilka maszyn niewiadomego przeznaczenia** – urządzenia, które Grunaldi reperuje na zlecenie, często bez kontekstu, do czego konkretnie służą.
+- **Pneumatyczny chodzik na szynach** – własnoręcznie skonstruowane urządzenie, na którym Grunaldi porusza się **wewnątrz pokoju**. Szyny biegną wzdłuż ścian i pomiędzy biurkiem, stołem warsztatowym a drzwiami, pozwalając mu szybko przemieszczać się między stanowiskami pracy.
+
+Poza pokojem Grunaldi porusza się na **wykonanych przez siebie metalowych protezach**. Chodzi powoli, ale stabilnie – po korytarzach gildii wszyscy go znają i odpowiednio mu ustępują.
+
+#### Funkcja i pozycja w gildii
+
+Grunaldi pełni rolę **gildyjnego pana złota rączka** – odpowiada za konserwację pneumatycznych urządzeń w całym kompleksie siedziby, w tym opisanej wyżej **sieci tub komunikacyjnych**. Oprócz tego reperuje wszelkie inne pneumatyczne mechanizmy: windy, klucze do skarbców, automatyczne zamki w dziale kartograficznym, drobne urządzenia bojowe oczekujące na konserwację.
+
+- Jest **szanowany przez wszystkich** w gildii – od urzędników po stałą jednostkę zbrojną z koszar.
+- **Zna wszystkich** – po długich latach pracy w siedzibie wie, kto jest kim, kto z kim się przyjaźni i kto z kim się nie zgadza.
+- **Plotka i informacja** krążą przez jego pokój równie często co dokumenty w tubach – Grunaldi jest bezcennym **źródłem nieoficjalnej wiedzy** o gildii i jej członkach.
 
 ## Funkcja w kampanii
 
@@ -68,6 +95,20 @@ Poniższa lista odzwierciedla zlecenia widoczne aktualnie na tablicy ogłoszeń.
 
 **Tło zlecenia**: Młody, ambitny szlachcic z [[AKT_2/Lokacje/Kis-Amira|Kis-Amiry]], dalszy krewny rodziny królewskiej **Aziru-Kesha**, organizuje **osobistą wyprawę** do kompleksu Kur-Nu-Gi-A. Baron skompletował już sześcioosobowy stały skład wyprawowy ([[AKT_2/NPCs/GrupaBarona|Grupa Barona]]) – w tym znaną z poprzednich wątków eksploratorkę [[NPCs/Ishara|Isharę]] – i poszukuje **dodatkowej ochrony osobistej** uzupełniającej ekipę. Oficjalnym celem wyprawy jest zwiad i powrót z relacją na dwór, lecz wysoka stawka oferowana za udział sugeruje, że organizator spodziewa się większego ryzyka, niż deklaruje publicznie.
 
+## Zlecenia dyskretne (poza tablicą)
+
+Oprócz oficjalnych zleceń wystawianych na **tablicy ogłoszeń**, gildia obsługuje również drobne sprawy klientów wymagających **pełnej dyskrecji**. Tego rodzaju kontrakty nie są wywieszane publicznie, lecz **rozdzielane przez Grunaldiego** osobiście – gnom dobiera wykonawców spośród eksploratorów, do których ma osobiste zaufanie, a klient płaci **dodatkową premię** w zamian za poufność.
+
+Kanał ten obsługuje typowo: rozeznanie w sprawach zawstydzających dla zleceniodawcy, neutralizacje zagrożeń, których nie chce się ujawnić sąsiadom lub konkurencji, oraz drobne usługi dla mieszczaństwa średniej Kis-Amiry, które nie chce, by ich nazwiska pojawiły się w gildyjnych rejestrach.
+
+### Zlecenie dyskretne – Sprawa piwnicy Lady Von Bauch
+
+> *„Klientka prosi o dyskretne ustalenie przyczyny zawalenia części piwnicy w jej posiadłości w średnim dystrykcie. Wymagana pełna poufność. Stawka: 300 zenitów + 200 premii za dyskrecję. Kontakt: Grunaldi."*
+
+**Tło zlecenia**: **Lady Von Bauch**, ekscentryczna dama z mieszczańsko-szlacheckiej elity Kis-Amiry, zgłosiła się do gildii w sprawie **podkopanej piwnicy** w swojej posiadłości. Lady podejrzewa **własne zwierzątko z dzieciństwa** – świnkę morską, która miała uciec do podmiejskich katakumb i przez lata urosnąć do wielkich rozmiarów. Hipoteza brzmi absurdalnie i właśnie dlatego klientka wymaga pełnej dyskrecji. Pełen opis zlecenia: [[AKT_2/LosoweSpotkania/PrzerośniętaŚwinkaMorska|Przerośnięta Świnka Morska]].
+
+Zlecenie jest **rozdzielane przez Grunaldiego** w pierwszej kolejności [[AKT_2/Sesja4/PrzygodaLiona|Lionowi]] (jako alternatywna ścieżka do średniej Kis-Amiry po nieudanym wątku z wujem), lecz może zostać podjęte przez całą drużynę.
+
 ---
 
 ## Notatki dla Mistrza Gry
@@ -84,7 +125,13 @@ Poniższa lista odzwierciedla zlecenia widoczne aktualnie na tablicy ogłoszeń.
 
 MG powinien wybrać wariant, który najlepiej spina się z głównymi wątkami kampanii.
 
-**Notatka – Sieć tub jako element fabularny**: Pneumatyczna sieć komunikacyjna stanowi **przydatne narzędzie narracyjne**. Gracze, którzy zaprzyjaźnią się z **Grunaldim** (zob. [[AKT_2/Sesja4/PrzygodaLiona|Przygoda Liona]]), mogą uzyskać dostęp do systemu – przesłanie wiadomości do konkretnego gabinetu, podsłuchanie kapsuły dla innego adresata, wysłanie sfałszowanego rozkazu wewnętrznego. Dla MG sieć stanowi również **uzasadnienie błyskawicznej reakcji gildii** w sytuacjach, gdy informacja musi przepłynąć między piętrami w ciągu chwil – np. ostrzeżenie o problemie w hali głównej lub wezwanie posiłków z koszar.
+**Notatka – Grunaldi jako recurring kontakt**: Polecony przez [[NPCs/Korsarze|Solokrusza]] gnom stanowi **przyjazny kontakt wewnątrz gildii**. Grunaldi przyjmuje gości serdecznie (herbata lub bimber zależnie od pory dnia), słucha sprawy, doradza, do kogo się zwrócić i kogo unikać, oraz może załatwić drobne sprawy poza oficjalną procedurą – formularz przyjęty bez kolejki, zlecenie wystawione szybciej, nazwisko polecone właściwemu urzędnikowi. Z chęcią opowie też o aktualnych zleceniach – w tym o [[AKT_2/NPCs/GrupaBarona|wyprawie Barona Velarena]], jeśli gracze o nią zapytają.
+
+**Notatka – Sieć tub jako element fabularny**: Pneumatyczna sieć komunikacyjna stanowi **przydatne narzędzie narracyjne**. Gracze, którzy zaprzyjaźnią się z Grunaldim, mogą uzyskać dostęp do systemu – przesłanie wiadomości do konkretnego gabinetu, podsłuchanie kapsuły dla innego adresata, wysłanie sfałszowanego rozkazu wewnętrznego. Dla MG sieć stanowi również **uzasadnienie błyskawicznej reakcji gildii** w sytuacjach, gdy informacja musi przepłynąć między piętrami w ciągu chwil – np. ostrzeżenie o problemie w hali głównej lub wezwanie posiłków z koszar.
+
+**Notatka – Wypadek Grunaldiego**: Okoliczności utraty nóg przez gnoma pozostają nieokreślone – MG ma swobodę. Sugestie: wybuch reaktora pyłowego na okręcie [[NPCs/Korsarze|Solokrusza]], pułapka w jednej z pradawnych ruin podczas wyprawy korsarskiej, awaria pneumatycznej windy ładunkowej. Wybór wpływa na to, jak Grunaldi opowiada o przeszłości i jaki ma stosunek do konkretnych technologii.
+
+**Notatka – Kanał zleceń dyskretnych**: Zlecenia rozdzielane przez **Grunaldiego** poza oficjalną tablicą stanowią **wartościowe narzędzie fabularne**. Pozwalają wprowadzać sprawy mieszczańskiej elity średniej Kis-Amiry bez konieczności wystawiania ich publicznie, budują pozycję Grunaldiego jako recurring kontaktu, oraz dają graczom dostęp do klientów, których nazwiska nie pojawiają się w gildyjnych rejestrach. Pierwsze zlecenie tego typu w kampanii – **sprawa piwnicy [[AKT_2/LosoweSpotkania/PrzerośniętaŚwinkaMorska|Lady Von Bauch]]** – jest oferowane Lionowi jako alternatywna droga do dystryktu mieszczańskiego, lecz MG może swobodnie tworzyć kolejne, używając tego samego kanału (sąsiad podejrzewający romans, kupiec szukający szpiega, dygnitarz potrzebujący „cichego rozwiązania").
 
 **Notatka – Wyprawa Barona Velarena**: Zlecenie [[AKT_2/NPCs/GrupaBarona|Barona Kaspara Velarena]] stanowi **bezpośrednie wejście w [[AKT_3/Wprowadzenie|Akt 3]]** – kontrakt na ochronę osobistą prowadzi drużynę z powrotem do [[Świat/KompleksKur-Nu-Gi-A|kompleksu Kur-Nu-Gi-A]] w roli eskorty młodego szlachcica. MG powinien wystawić zlecenie na tablicy w momencie, gdy gracze są gotowi rozpocząć Akt 3. Wysokość stawki (łącznie 2500 zenitów + pokrycie kosztów) jest celowo wyraźnie powyżej rynkowej – stanowi dla graczy delikatny sygnał, że ryzyko może być wyższe od oficjalnej narracji „spokojnej obserwacji".
 

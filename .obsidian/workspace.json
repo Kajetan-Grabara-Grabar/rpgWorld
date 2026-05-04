@@ -35,8 +35,7 @@
               "title": "PrzygodaLiona"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,19 +197,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "24f84ecc6affba17",
+  "active": "f39eff2cbce1f970",
   "lastOpenFiles": [
+    "AKT_2/LosoweSpotkania/PrzerośniętaŚwinkaMorska.md",
+    "AKT_2/Lokacje/SiedzibaGildiiGryfa.md",
+    "AKT_2/NPCs/GnomiHandlarze.md",
+    "AKT_2/Sesja4/PrzygodaLiona.md",
     "AKT_2/Lokacje/TawernaPrzedBramą.md",
     "AKT_2/Lokacje/Szpital.md",
     "AKT_2/NPCs/KomandoElfy.md",
     "AKT_2/NPCs/GrupaBarona.md",
     "AKT_2/Lokacje/RozbitaKarawela.md",
-    "AKT_2/Lokacje/SiedzibaGildiiGryfa.md",
-    "AKT_2/Sesja4/PrzygodaLiona.md",
     "AKT_2/LosoweSpotkania/Centaur.md",
     "AKT_2/Sesja4",
     "AKT_2/LosoweSpotkania/CohorsCorvi.md",
-    "AKT_2/NPCs/GnomiHandlarze.md",
     "AKT_3/Wprowadzenie.md",
     "NPCs/Ishara.md",
     "AKT_2/NPCs/KorsarzeZKur-Nu-Gi-A.md",
@@ -228,7 +228,6 @@
     "AKT_2/Lokacje/BramaKis-Amiry.md",
     "AKT_3",
     "AKT_1/Sesja0.5/WiadomośćOdAgenta.md",
-    "AKT_1/QuickReference.md",
     "AKT_2/Sesja3",
     "AKT_2/Wydarzenia",
     "Untitled",

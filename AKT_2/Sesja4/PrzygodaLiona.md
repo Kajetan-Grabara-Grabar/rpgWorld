@@ -21,7 +21,7 @@ Sukces lub porażka Liona w uzyskaniu wejściówki rozstrzyga **test progresywny
 Lion nie uzyskuje tego, czego chciał. Po dość przyjemnym popołudniu spędzonym z dwoma kapitanami otrzymuje jedynie:
 
 - **List polecający** do [[AKT_2/Lokacje/SiedzibaGildiiGryfa|Gildii Gryfa]].
-- **Wskazówkę**, by zgłosił się do gnoma **Grunaldiego** – byłego mechanika Solokrusza, który po nieszczęśliwym wypadku stracił obie nogi. Grunaldi i Solokrusz pozostali przyjaciółmi, a kapitan załatwił mu pracę w gildii.
+- **Wskazówkę**, by zgłosił się tam do gnoma **Grunaldiego** – byłego mechanika [[NPCs/Korsarze|Solokrusza]], obecnie pełniącego rolę pana złota rączka w gildii (pełny opis: [[AKT_2/Lokacje/SiedzibaGildiiGryfa|Siedziba Gildii Gryfa]]).
 
 ### Sukces 7+
 
@@ -66,59 +66,6 @@ Wuj jest **kapitanem Złotego Kaczątka** – małego pyłowca handlowego. Posta
 
 Imię wuja nie zostało jeszcze ustalone – MG może je nadać w trakcie sesji (sugerowany styl: krasnoludzki, np. **Borin**, **Drogan**, **Halberd**).
 
-### Grunaldi – nowy NPC
-
-**Grunaldi** to nowo wprowadzona postać przy okazji tej sesji.
-
-#### Wygląd i osobowość
-
-Mały, **siwy gnom** o pogodnej twarzy i drobnych dłoniach pokrytych smarem. Jest **wesoły, gadatliwy i serdeczny** – chętnie nawiązuje rozmowę z każdym, kto zajrzy do jego pokoju. Zapytany o [[NPCs/Korsarze|Solokrusza]] **bardzo miło wspomina czasy**, gdy sam był korsarzem we flocie kapitana, i z rozrzewnieniem opowiada anegdoty z dawnych wypraw.
-
-Mimo utraty obu nóg **nie narzeka** na swój los. Traktuje swoją sytuację z gnomim pragmatyzmem – wypadek się wydarzył, więc zbudował sobie sprzęt, który pozwala mu funkcjonować dalej.
-
-#### Pokój Grunaldiego
-
-Grunaldi pracuje w **pokoiku na końcu korytarza** w [[AKT_2/Lokacje/SiedzibaGildiiGryfa|Siedzibie Gildii Gryfa]]. Pomieszczenie służy mu jednocześnie za biuro i warsztat:
-
-- **Biurko ze sporą ilością papieru** – plany, schematy, formularze konserwacyjne, korespondencja z gildyjnymi działami.
-- **Stół warsztatowy pod oknem** – z narzędziami precyzyjnymi, fragmentami pneumatycznych mechanizmów, tubami i zaworami w trakcie naprawy.
-- **Kilka maszyn niewiadomego przeznaczenia** – urządzenia, które Grunaldi reperuje na zlecenie, często bez kontekstu, do czego konkretnie służą.
-- **Pneumatyczny chodzik na szynach** – własnoręcznie skonstruowane urządzenie, na którym Grunaldi porusza się **wewnątrz pokoju**. Szyny biegną wzdłuż ścian i pomiędzy biurkiem, stołem warsztatowym a drzwiami, pozwalając mu szybko przemieszczać się między stanowiskami pracy.
-
-Poza pokojem Grunaldi porusza się na **wykonanych przez siebie metalowych protezach**. Chodzi **powoli**, ale stabilnie – po korytarzach Gildii Gryfa wszyscy go znają i odpowiednio mu ustępują.
-
-#### Funkcja w Gildii Gryfa
-
-Grunaldi pełni rolę **gildyjnego pana złota rączka** – odpowiada za **konserwację pneumatycznych urządzeń** w całym kompleksie siedziby. Najważniejszym systemem pod jego opieką jest **pneumatyczna sieć tub komunikacyjnych**:
-
-- System tub i rur biegnący między piętrami i pomiędzy poszczególnymi gabinetami.
-- **Sprężone powietrze** napędza kapsuły z dokumentami, formularzami i krótkimi notatkami.
-- Pozwala **drastycznie przyśpieszyć wymianę informacji** w obrębie siedziby – sprawa, która klasycznie wymagałaby gońca, jest załatwiana w sekundach.
-- Jest to typ archemagitechu lub konwencjonalnej mechaniki pneumatycznej – zależnie od decyzji MG (sugerowane: hybrydowe, pył jako sprężarka).
-
-Oprócz sieci tub Grunaldi reperuje wszelkie inne pneumatyczne mechanizmy używane w gildii – windy, klucze do skarbców, automatyczne zamki w archiwum kartograficznym, drobne urządzenia bojowe oczekujące na konserwację.
-
-#### Pozycja społeczna w gildii
-
-- Jest **szanowany przez wszystkich** w gildii – od urzędników po stałą jednostkę zbrojną stacjonującą w koszarach.
-- **Zna wszystkich** – po dziesięcioleciach pracy w siedzibie wie, kto jest kim, kto z kim się przyjaźni i kto z kim się nie zgadza.
-- **Plotka i informacja** krążą przez jego pokój równie często co dokumenty w tubach – Grunaldi jest bezcennym **źródłem nieoficjalnej wiedzy** o gildii i jej członkach.
-
-#### Wykorzystanie w sesji
-
-Lion (lub każda postać kierowana do Grunaldiego) trafia do gnoma jako kontakt polecony przez [[NPCs/Korsarze|Solokrusza]]. Grunaldi:
-
-- Przyjmuje gościa **serdecznie**, częstuje herbatą lub bimbrem (zależnie od pory dnia).
-- Słucha sprawy i **doradza, do kogo w gildii się zwrócić** lub **kogo unikać**.
-- Może załatwić drobne sprawy **poza oficjalną procedurą** – formularz przyjęty bez kolejki, zlecenie wystawione szybciej, nazwisko polecone właściwemu urzędnikowi.
-- Z chęcią opowie **ploki o aktualnych zleceniach** – w tym o [[AKT_2/NPCs/GrupaBarona|wyprawie Barona Velarena]], jeśli akurat o nią zapytać.
-
-**Notatka – Grunaldi jako recurring kontakt**: Nawet w scenariuszu porażki testu progresywnego wprowadzenie Grunaldiego ma długofalową wartość. Lion zyskuje **przyjazny kontakt w Gildii Gryfa**, co okaże się cenne przy [[AKT_2/NPCs/GrupaBarona|wyprawie Barona Velarena]] otwierającej [[AKT_3/Wprowadzenie|Akt 3]] – gnom udzieli wskazówek o samym Baronie, jego stałej ekipie i historii ofert wystawianych przez dwór.
-
-**Notatka – Sieć tub jako element fabularny**: Pneumatyczna sieć komunikacyjna w gildii to **przydatne narzędzie narracyjne**. Gracze, którzy zaprzyjaźnią się z Grunaldim, mogą uzyskać dostęp do systemu (przesłanie wiadomości do konkretnego gabinetu, podsłuchanie kapsuły dla innego adresata, wysłanie fałszywego rozkazu). Dla MG jest to też **uzasadnienie szybkiej reakcji gildii** w sytuacjach, gdy informacja musi przepłynąć błyskawicznie między piętrami.
-
-**Notatka – Wypadek Grunaldiego**: Okoliczności utraty nóg pozostają nieokreślone – MG ma swobodę. Sugestie: wybuch reaktora pyłowego na okręcie Solokrusza, pułapka w którejś z pradawnych ruin podczas wyprawy korsarskiej, awaria pneumatycznej windy ładunkowej. Wybór wpływa na to, jak Grunaldi opowiada o przeszłości i jakie ma stosunek do konkretnych technologii.
-
 ### Wejściówka do średniej Kis-Amiry
 
 **Średnia Kis-Amira** to dystrykt mieszczański, w którym znajdują się:
@@ -137,12 +84,12 @@ Wejściówka jest **dokumentem urzędowym** wydawanym po weryfikacji tożsamośc
 - Dostęp do średniej Kis-Amiry niezależnie od reszty drużyny (przewaga ruchowa w mieście).
 - Możliwość sprzedaży pudełka stazowego po godziwej cenie.
 - Pogłębienie relacji z [[NPCs/Korsarze|Solokruszem]] (potencjalnie przydatny sojusznik w kolejnych aktach).
-- Kontakt z Grunaldim w Gildii Gryfa.
+- Kontakt z **Grunaldim** w [[AKT_2/Lokacje/SiedzibaGildiiGryfa|Gildii Gryfa]].
 
 **Porażka** daje Lionowi:
 
 - List polecający do Gildii Gryfa (skromniejsza, ale wciąż użyteczna ścieżka).
-- Kontakt z Grunaldim (recurring NPC).
+- Kontakt z **Grunaldim** w [[AKT_2/Lokacje/SiedzibaGildiiGryfa|Gildii Gryfa]] (recurring NPC).
 - Konieczność szukania innej drogi do średniej Kis-Amiry – być może przez pośrednika Niko lub własne kombinacje.
 
 W obu przypadkach scena **zaciąga zobowiązanie wzajemne** między Lionem a Solokruszem – kapitan może w przyszłości oczekiwać przysługi w zamian.
