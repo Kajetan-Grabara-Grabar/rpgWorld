@@ -124,7 +124,7 @@ Cohors Obscura może służyć jako kluczowa grupa w kampanii:
 
 | Element      | Modyfikator |
 | ------------ | ----------- |
-| **Physical** | RS          |
+| **Physical** | _           |
 | **Air**      | —           |
 | **Bolt**     | —           |
 | **Dark**     | —           |
