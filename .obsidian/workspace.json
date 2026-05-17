@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AKT_2/Sesja4/Sesja4.md",
+                "file": "AKT_2/Lokacje/SklepZnawcyArtefaktów.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesja4"
+              "title": "SklepZnawcyArtefaktów"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AKT_2/LosoweSpotkania/PomnikHuberta.md",
+                "file": "AKT_2/Sesja4/Sesja4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PomnikHuberta"
+              "title": "Sesja4"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "Pentagram"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,14 +226,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "5eaf2183b7f76b67",
+  "active": "331bdc3b27255c6b",
   "lastOpenFiles": [
-    "Frakcje/Pentagram.md",
-    "AKT_2/LosoweSpotkania/PomnikHuberta.md",
+    "AKT_2/Lokacje/SklepZnawcyArtefaktów.md",
+    "AKT_2/Sesja3/Sesja3.md",
     "AKT_2/Sesja4/Sesja4.md",
+    "NPCs/Korsarze.md",
+    "AKT_2/Sesja4/PrzygodaLiona.md",
+    "AKT_2/LosoweSpotkania/PomnikHuberta.md",
+    "Frakcje/Pentagram.md",
     "AKT_2/Lokacje/Szpital.md",
     "AKT_2/Lokacje/SklepPanaOwena.md",
-    "AKT_2/Lokacje/SklepZnawcyArtefaktów.md",
     "Lokacje/ZalaneJaskinie.md",
     "AKT_2/Lokacje/SiedzibaGildiiGryfa.md",
     "AKT_2/Lokacje/Janowice.md",
@@ -242,7 +246,6 @@
     "Lokacje/WielkaBiblioteka.md",
     "Lokacje/TylneWejście.md",
     "Frakcje/Gildie.md",
-    "AKT_2/Sesja4/PrzygodaLiona.md",
     "AKT_1/Sesja0.5/WiadomośćOdAgenta.md",
     "AKT_2/Lokacje/DrogaDoMostu.md",
     "AKT_1/Wprowadzenie.md",
@@ -251,8 +254,6 @@
     "AKT_1/IIBitwaOKatedrę.md",
     "AKT_1/Sekcja1/Sekcja1.md",
     "Untitled 1.md",
-    "AKT_2/NPCs/LeśniBandycji.md",
-    "AKT_2/NPCs/KorsarzeZKur-Nu-Gi-A.md",
     "AKT_2/Sesja4",
     "AKT_2/LosoweSpotkania",
     "AKT_3",
