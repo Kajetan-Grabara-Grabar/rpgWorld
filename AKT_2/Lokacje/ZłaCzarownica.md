@@ -63,13 +63,13 @@ Lara **nic nie wie o porwaniu mieszkańców** Janowic. Naciskana, podtrzymuje sw
 
 Pod presją – fizyczną lub psychiczną – Lara wyjawia **istotny fakt**, niepowiązany z porwaniami, lecz wyglądający podejrzanie:
 
-- **Kamienie runiczne** dostała od grupy **nieznajomych** (w rzeczywistości [[NPCs/CohorsObscura|Cohors Vigilis]] – jednostki [[Frakcje/Nefilim|Nefilim]] działającej w [[AKT_2/Lokacje/Kis-Amira|Kis-Amirze]]).
+- **Kamienie runiczne** dostała od grupy **nieznajomych**, niejaki Fordo pracujący dla gildii gryfa (w rzeczywistości [[NPCs/CohorsObscura|Cohors Vigilis]] – jednostki [[Frakcje/Nefilim|Nefilim]] działającej w [[AKT_2/Lokacje/Kis-Amira|Kis-Amirze]]).
 - Nieznajomi byli dla niej **niezwykle mili** – pierwsi od śmierci rodziców, którzy traktowali ją po ludzku.
 - **Wypytywali ją o ruiny w okolicy** – wszystko, co kojarzy z lasem, kamiennymi konstrukcjami, pradawnymi znakami.
 - Zapłacili jej **500 zenitów**, które zakopała w ogródku.
 - Dali jej **kilka kamieni runicznych Morkai**, których moc znała z opowieści matki – mówi, że leczą *gorączkę ruin*.
 
-Lara nie wie, kim są nieznajomi, i **nie ma pojęcia, że ich obecność w okolicy nie ma związku z porwaniami w Janowicach**. Dla niej to po prostu mili obcy z dobrymi pieniędzmi.
+Lara nie wie, kim są nieznajomi poza tym, że jeden przedawił się umieniem Frodo i mówił, że pracuje dla Gildii Gryfa, i **nie ma pojęcia, że ich obecność w okolicy nie ma związku z porwaniami w Janowicach**. Dla niej to po prostu mili obcy z dobrymi pieniędzmi.
 
 **Kluczowe dla MG**: te informacje **wyglądają obciążająco**, ale są **niepowiązane z porwaniami**. To zbieg okoliczności – Cohors Vigilis działa w okolicy z innych powodów (zainteresowanie ruinami), a porwania to dzieło zupełnie innej siły.
 
@@ -97,14 +97,33 @@ Na prośbę graczy lub dobrowolnie po przesłuchaniu Lara **wskazuje drogę do r
 
 ### Znaleziska
 
-- **Kilka pustych skrzyń** wykonanych z dziwnego, czarnego tworzywa, okutych bardzo gładkimi okuciami. Wysokiej jakości, sprawiają wrażenie **wodoszczelnych**. Materiał nie odpowiada żadnej znanej technologii regionu – pozostawione tu przez Cohors Vigilis przy okazji wcześniejszych badań.
+- **Kilka pustych skrzyń** wykonanych z dziwnego, czarnego tworzywa, wykończonych bardzo gładkimi okuciami. Wysokiej jakości, sprawiają wrażenie **wodoszczelnych**. Materiał nie odpowiada żadnej znanej technologii regionu – pozostawione tu przez Cohors Vigilis przy okazji wcześniejszych badań.
 - **Ślady w błocie** – widoczne już na zewnątrz tunelu, prowadzą przez salę główną aż do kamiennego portalu w jednej ze ścian. Ślady są **niedawne** – znacznie świeższe niż wszystko, co Cohors Vigilis mogła tu zostawić.
 
-### Martwy portal
+### Aktywny portal
 
-W jednej ze ścian sali znajduje się **kamienny portal** – zdobiona, łukowa konstrukcja, która wygląda, jakby kiedyś prowadziła donikąd lub gdzieś. Tam, gdzie powinny być drzwi, znajduje się **lita skała**. Ślady w błocie kończą się dokładnie pod portalem – **wchodzą w niego i znikają**.
+W jednej ze ścian sali znajduje się **kamienny portal** – zdobiona, łukowa konstrukcja. Wbrew pierwszemu wrażeniu **nie jest martwy**: tam, gdzie spodziewać by się można litej skały, faluje **ciemne, nieprzeniknione przejście**. Ślady w błocie prowadzą dokładnie pod portal i **wchodzą w niego**, znikając po drugiej stronie.
 
-To właśnie tym portalem **przeszli porwani mieszkańcy Janowic**. Portal jest jednym z **dawno uśpionych wyjść z [[KompleksKur-Nu-Gi-A|kompleksu Kur-Nu-Gi-A]]**, niedawno reaktywowanym przez budzący się kompleks.
+To właśnie tym portalem **przeszli porwani mieszkańcy Janowic**. Portal jest jednym z **dawno uśpionych wyjść z [[KompleksKur-Nu-Gi-A|kompleksu Kur-Nu-Gi-A]]**, niedawno reaktywowanym przez budzący się kompleks. Jest **w pełni przejezdny** – gracze mogą przezeń przejść, podążając tropem porwanych w głąb kompleksu.
+
+### Za portalem – Wielki Plac
+
+Po przejściu przez **bardzo długi, całkowicie ciemny tunel** gracze wychodzą po drugiej stronie – w trzewiach [[KompleksKur-Nu-Gi-A|Kur-Nu-Gi-A]]. Otwiera się przed nimi **ogromny, mroczny plac**:
+
+- **Sufit** ginie w ciemności około **czterystu metrów nad głowami**, usiany **drobnymi, połyskującymi światełkami** przypominającymi gwiazdy lub odległe lampki.
+- Przestrzeń jest **cicha, zimna i pozbawiona widocznego źródła światła** poza migotaniem u góry.
+
+#### Posągi mieszkańców Janowic
+
+Plac wypełniają **ludzkie posągi** – kamienne figury zastygłe w pozach przerwanego ruchu. To **porwani mieszkańcy Janowic**, przemienieni w kamień. W miejscu, gdzie każdy z nich powinien mieć **serce**, tkwi **perła** – ten sam surowiec, którego [[Frakcje/Nefilim|Nefilim]] poszukują w kompleksie i którym zasilane są pradawne konstrukty.
+
+Posągi są **niezbitym dowodem prawdziwego losu** porwanych (zob. Notatki dla MG) i jednoznacznie obalają oskarżenia wobec Lary.
+
+#### Patrol Cohors Mortis (walka)
+
+Na placu, **zawieszony w czasie i przestrzeni**, tkwi **niewielki patrol bojowy kóz** przydzielonych do **Cohors Mortis** – kohorty [[Frakcje/Nefilim|Nefilim]] wyspecjalizowanej w operacjach podziemnych. Kozy **nie są samymi Nefilim**: to ich **jednostki wsparcia**, bojowe zaplecze frakcji. (Sami Nefilim są raczej „ludzcy" niż zwierzęcy – bliżej im do elitarnych, opancerzonych superżołnierzy niż do potworów; humanoidalne kozy to osobna, niższa, bestialna kategoria sił.) Figury kóz wyglądają na **unieruchomione w pół kroku**, jakby zatrzymano je w stop-klatce.
+
+Gdy gracze **zbliżą się do humanoidalnych kóz**, zawieszenie pęka – patrol **odzyskuje ruch i rozpoczyna walkę**. To pierwsze realne starcie zbrojne w głębi kompleksu.
 
 ---
 
@@ -145,11 +164,13 @@ Lara wygląda na sprawcę, bo połączenie tych trzech zdarzeń tworzy **fałszy
 
 **Notatka – Tortury jako wybór moralny**: Jeśli gracze sięgną po tortury wobec niewinnej kobiety, MG powinien wyciągnąć **trwałe konsekwencje narracyjne**: Lara po wszystkim odmówi dalszej współpracy, ucieknie, popełni samobójstwo, lub – w wariantach mrocznych – zostanie odnaleziona przez Cohors Vigilis i wykorzystana przeciwko graczom. *Intensywne przesłuchanie* nie musi oznaczać przemocy – rozmowa, kupno informacji, okazanie życzliwości albo zostawienie zapłaty za naszyjniki działa równie dobrze.
 
-**Notatka – Ruiny i martwy portal**: Sala podziemna to **preludium** do głębszego dungeonu w [[KompleksKur-Nu-Gi-A|Kur-Nu-Gi-A]]:
-- **Ślady wchodzą w litą skałę** – portal działa, ale nie reaguje na zwykłe próby otwarcia.
-- **Kompleks aktywuje go w określonych momentach** (np. cyklicznie, w nocy, gdy potrzebuje kolejnej fali energii).
-- **Gracze mogą zaczekać na cykl aktywacji** lub szukać sposobu wymuszenia otwarcia (runy Morkai mogą działać jako klucz, podobnie jak chronią przed sygnałem).
+**Notatka – Portal i Wielki Plac**: Sala podziemna to **brama** do głębszego dungeonu w [[KompleksKur-Nu-Gi-A|Kur-Nu-Gi-A]]:
+- **Portal jest aktywny i przejezdny** – ślady porwanych wchodzą wprost w przejście, a gracze mogą za nimi podążyć od razu, bez czekania na cykl aktywacji.
+- Po drugiej stronie, za **bardzo długim ciemnym tunelem**, czeka **Wielki Plac** z posągami mieszkańców i zamrożonym patrolem **humanoidalnych kóz** (jednostek wsparcia przydzielonych do kohorty **Cohors Mortis** – nie są to sami Nefilim) – pierwsza poważna walka w kompleksie. Patrol budzi się dopiero po zbliżeniu się graczy do kóz.
+- **Runy Morkai** powinny zostać zabrane w głąb portalu – chronią przed sygnałem wezwania kompleksu (zob. wyżej). Gracze bez run ryzykują wpadnięcie w trans na placu.
 - **Czarne skrzynie** Cohors Vigilis to ślad obecności Nefilim w okolicy – ale są puste, nieistotne dla głównego wątku.
-- **Zawalone drugie wyjście** może zostać odkopane przez graczy, dając im alternatywną ścieżkę na powierzchnię.
+- **Zawalone drugie wyjście** w sali może zostać odkopane przez graczy, dając im alternatywną ścieżkę na powierzchnię.
+
+**Notatka – Posągi z perłami**: Kamienne figury mieszkańców z **perłą w miejscu serca** to dosłowna ilustracja *prawdziwej przyczyny porwań* (zob. wyżej): kompleks przetwarza ludzi w **materiał i komponenty** dla swoich mechanizmów, a ich życiowa energia krystalizuje się w perły – ten sam surowiec, na który poluje [[Frakcje/Nefilim|Nefilim]]. Dla graczy to moment **brutalnej rewelacji**: porwani prawdopodobnie nie żyją w konwencjonalnym sensie, a oskarżanie Lary było ślepą uliczką. MG może zostawić otwartą furtkę (czy przemianę da się odwrócić?), jeśli chce dać graczom cel ratunkowy, lub zamknąć ją, jeśli woli zaakcentować grozę kompleksu.
 
 **Notatka – Po przejściu lokacji**: Co dzieje się z Larą? Jeśli gracze ją oszczędzili i potraktowali sprawiedliwie, może przeprowadzić się do bezpieczniejszego miejsca lub zostać w lepiance jako sojuszniczka. Jeśli ją wydali, skrzywdzili lub zabili, MG ma prawo i obowiązek wyciągnąć konsekwencje – nie tylko narracyjne (reputacja), ale i mechaniczne (porwania trwają, prawdziwy wątek odkryty za późno).

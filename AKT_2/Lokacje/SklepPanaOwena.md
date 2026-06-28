@@ -89,7 +89,7 @@ Cena: **200–500 zenitów za sztukę**, w zależności od stanu zachowania, kom
 **Notatka – Kulomiot jako hak fabularny**: Broń w gablocie to **silny hak fabularny**. Możliwe ścieżki wykorzystania:
 
 - **Kradzież** – gracze mogą próbować ukraść kulomiot przed aukcją, samodzielnie lub na zlecenie zewnętrzne (np. od [[Frakcje/Nefilim|Nefilim]] lub [[NPCs/Korsarze|Solokrusza]]).
-- **Aukcja jako scena fabularna** – publiczna aukcja gromadzi przedstawicieli różnych frakcji w jednym miejscu i o jednej porze. MG może rozegrać aukcję jako scenę intryg, gdzie gracze obserwują, kto licytuje – informacja sama w sobie cenna.
+- **Aukcja jako scena fabularna** – publiczna aukcja gromadzi przedstawicieli różnych frakcji w jednym miejscu i o jednej porze. MG może rozegrać aukcję jako scenę intryg, gdzie gracze obserwują, kto licytuje – informacja sama w sobie cenna. Jednym z zainteresowanych nabywców jest **[[Vesna|Lady Vesna]]**, królewski mag Kis-Amiry i kolekcjonerka artefaktów, która wyśmiewa cenowe oczekiwania Owena i może rozpoznać prawdziwe (nefilimskie) pochodzenie broni.
 - **Zakup za grupowe środki** – jeśli drużyna zgromadzi 100 000+ zenitów, mogą wziąć udział w aukcji legalnie. W tym wypadku kulomiot staje się **kluczowym artefaktem drużyny** na wiele sesji.
 - **Pochodzenie znalazcy** – „anonimowy poszukiwacz", który natknął się na zapomniany **mikro-loch [[Frakcje/Nefilim|Nefilimów]]** w lasach wokół kompleksu (zob. notatka *Pochodzenie kulomiotu (canon)* niżej). Tożsamość pozostaje otwarta – kandydaci: drobny pojedynczy eksplorator, członek [[AKT_2/NPCs/GrupaBarona|Grupy Barona]], odłam [[NPCs/Korsarze|Korsarzy]] – w każdym przypadku osoba w rosnącym niebezpieczeństwie ze strony Nefilimów.
 

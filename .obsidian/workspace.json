@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AKT_2/Sesja4/Sesja4.md",
+                "file": "AKT_2/Sesja5/Sesja5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesja4"
+              "title": "Sesja5"
+            }
+          },
+          {
+            "id": "d77d8edffa96ebf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Popielice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Popielice"
             }
           },
           {
@@ -228,32 +242,34 @@
   },
   "active": "331bdc3b27255c6b",
   "lastOpenFiles": [
-    "AKT_2/Lokacje/SklepZnawcyArtefaktów.md",
-    "AKT_2/Sesja3/Sesja3.md",
-    "AKT_2/Sesja4/Sesja4.md",
-    "NPCs/Korsarze.md",
-    "AKT_2/Sesja4/PrzygodaLiona.md",
-    "AKT_2/LosoweSpotkania/PomnikHuberta.md",
-    "Frakcje/Pentagram.md",
-    "AKT_2/Lokacje/Szpital.md",
-    "AKT_2/Lokacje/SklepPanaOwena.md",
-    "Lokacje/ZalaneJaskinie.md",
-    "AKT_2/Lokacje/SiedzibaGildiiGryfa.md",
+    "Popielice.md",
+    "AKT_2/LosoweSpotkania/SpotkanieZeSłowikiem.md",
+    "AKT_2/Sesja5/Sesja5.md",
+    "AKT_2/LosoweSpotkania/Nagonka.md",
+    "AKT_2/Sesja5",
     "AKT_2/Lokacje/Janowice.md",
-    "AKT_2/Lokacje/Kis-Amira.md",
+    "AKT_2/Lokacje/SklepZnawcyArtefaktów.md",
+    "AKT_2/Lokacje/SklepPanaOwena.md",
+    "AKT_2/Lokacje/SiedzibaGildiiGryfa.md",
     "AKT_2/Lokacje/RozbitaKarawela.md",
     "AKT_2/Lokacje/Muzeum.md",
-    "Lokacje/WielkaBiblioteka.md",
-    "Lokacje/TylneWejście.md",
-    "Frakcje/Gildie.md",
-    "AKT_1/Sesja0.5/WiadomośćOdAgenta.md",
-    "AKT_2/Lokacje/DrogaDoMostu.md",
-    "AKT_1/Wprowadzenie.md",
-    "AKT_1/Timeline.md",
-    "AKT_1/QuickReference.md",
-    "AKT_1/IIBitwaOKatedrę.md",
-    "AKT_1/Sekcja1/Sekcja1.md",
-    "Untitled 1.md",
+    "AKT_2/Lokacje/Kis-Amira.md",
+    "AKT_2/Lokacje/TawernaPrzedBramą.md",
+    "AKT_2/Lokacje/ZłaCzarownica.md",
+    "AKT_2/NPCs/Vesna.md",
+    "AKT_2/Lokacje/Szpital.md",
+    "AKT_2/LosoweSpotkania/Centaur.md",
+    "AKT_2/LosoweSpotkania/StaraBaba.md",
+    "AKT_2/NPCs/GnomiHandlarze.md",
+    "AKT_2/NPCs/KomandoElfy.md",
+    "AKT_2/NPCs/LeśniBandycji.md",
+    "AKT_2/Sesja4/Sesja4.md",
+    "AKT_2/Sesja4/PrzygodaLiona.md",
+    "AKT_2/NPCs/PojazdKorsarzyPowietrznych.md",
+    "AKT_2/LosoweSpotkania/CohorsCorviPorwaniePrzezElfy.md",
+    "AKT_2/NPCs/KorsarzeZKur-Nu-Gi-A.md",
+    "AKT_2/LosoweSpotkania/PrzerośniętaŚwinkaMorska.md",
+    "Technologia",
     "AKT_2/Sesja4",
     "AKT_2/LosoweSpotkania",
     "AKT_3",
@@ -261,8 +277,6 @@
     "AKT_2/Wydarzenia",
     "Untitled",
     "AKT_2/NPCs",
-    "AKT_2/Lokacje",
-    "AKT_2",
-    "AKT_1/Sesja2"
+    "AKT_2/Lokacje"
   ]
 }

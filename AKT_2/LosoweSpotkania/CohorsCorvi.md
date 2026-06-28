@@ -14,6 +14,8 @@ Członkowie Cohors Corvi noszą **lekkie pancerze w zielonkawym odcieniu**, dopa
 
 Uzbrojenie i sprzęt grupy są zróżnicowane, ale **dyskretnie ukryte** – większość ekwipunku pozostaje w pokrowcach, plecakach lub spakowana przy śpiworach. To celowy element ich kamuflażu jako „grupy poszukiwaczy przygód", a nie regularnego oddziału.
 
+Wspólną cechą fizyczną oddziału są **wyjątkowo ostre, wydłużone kły** nadające twarzom **wilczy rys**, a także wyraźnie wyostrzona czujność – członkowie grupy zdają się słyszeć i wyczuwać więcej niż przeciętny człowiek. Dla postronnych łatwo złożyć to na karb **dzikiego, góralskiego pochodzenia**; sam Kronos chętnie przedstawia się jako **człowiek gór**.
+
 ## Skład grupy (widoczny)
 
 - **Kronos** – Dowódca, doświadczony wojownik. Pełni rolę gospodarza obozu i głównego rozmówcy.
@@ -67,6 +69,12 @@ Liczba dwunastu śpiworów to **celowo zostawiona poszlaka** – zbyt subtelna, 
 - **Pokrowiec Prometeusza**: Zaawansowana broń ciężka Nefilim – prawdopodobnie kulomiot wsparcia ogniowego lub miotacz energetyczny.
 - **Puszka Atlasa**: Granat impulsowy lub ładunek wybuchowy z technologii Nefilim. W razie walki wręcz Atlas potrafi go wykorzystać jako broń obszarową.
 - **Wszyscy członkowie**: Standardowe noże szturmowe i krótkie kulomioty Nefilim ukryte pod warstwami odzieży.
+
+### Mutacja: wilcze kły i wyostrzone zmysły
+
+Cały oddział nosi tę samą **mutację**: ostre, wydłużone kły (wilczy rys) oraz **podniesiony słuch, węch i wzrok**. To nie ozdoba, lecz **przystosowanie do zwiadu** – czyni z Cohors Corvi doskonałych tropicieli i obserwatorów, których trudno zaskoczyć w terenie. Cecha idealnie pasuje do ich roli rozpoznania naziemnego [[Frakcje/Nefilim|Nefilim]].
+
+**Kronos** tłumaczy te rysy **góralskim pochodzeniem** i sam **uważa się za górala – dzikiego człowieka gór**. Ta autoidentyfikacja jest zarazem wygodną **przykrywką** dla mutacji, która w istocie nie jest ludzka. Dla uważnych graczy kły i nadludzka czujność mogą być kolejną subtelną **rysą** demaskującą prawdziwą naturę oddziału (por. greckie pseudonimy i zagadkę dwunastu śpiworów; zob. też [[AKT_2/LosoweSpotkania/CohorsCorviPorwaniePrzezElfy|wariant porwania przez elfy]]).
 
 ### Cele oddziału
 

@@ -62,6 +62,19 @@ Pentagram **nie utrzymuje oficjalnych relacji z żadną frakcją** – w istocie
 
 Lojalność tych agentów wobec Pentagramu pozostaje nieznana ich przełożonym w oficjalnych strukturach.
 
+### Aktualna sytuacja: kryzys i nagonka (tło dla MG)
+
+Mimo encyklopedycznego obrazu potężnej, wszechobecnej sieci, Pentagram przeżywa obecnie **poważny kryzys** i na kilku frontach jest stroną przegrywającą:
+
+- **Utrata wpływu na Kis-Amirę**: kluczowym narzędziem nacisku Pentagramu na [[AKT_2/Lokacje/Kis-Amira|króla Aziru-Kesha]] była jego **kochanka – agentka organizacji**. Zginęła ona w ataku na średnie miasto (zob. [[AKT_2/Lokacje/Muzeum|Muzeum]]). Pogrążony w żalu król wszczął **[[AKT_2/LosoweSpotkania/Nagonka|nagonkę]]** – publicznie polowanie na „czarownicę", a po cichu wymierzoną w Pentagram: korona **zatrzymuje konkretnych, znanych członków i wyciąga z nich dane wywiadowcze**. Organizacja **nie zostaje zdelegalizowana** (opinia publiczna wciąż nie wie o jej istnieniu), ale Pentagram traci jednocześnie agentkę, kanał wpływu i bezpieczeństwo działania w mieście.
+- **Porażka na froncie cereńskim**: Pentagram wysłał w rejon Ceren **dwa duże zespoły** (m.in. ekipę [[AKT_2/LosoweSpotkania/SpotkanieZeSłowikiem|Słowika]]), lecz obie były **zbyt nieliczne**, by cokolwiek poważnego osiągnąć. Wyprawy te **nie zetknęły się** z **Cohors Vigilis**, która operuje typowo w samym **Ceren**. Ze **[[NPCs/Skial|Skialem]]** (byłym szefem kontrwywiadu Ceren) i Cohors Vigilis mierzyli się dopiero **agenci Pentagramu pozostali w Kis-Amirze**, skutecznie przez nich neutralizowani.
+
+**Notatka – Pentagram jako ofiara, nie sprawca**: Wbrew propagandzie z [[AKT_2/LosoweSpotkania/Nagonka|nagonki]], Pentagram nie stoi za atakiem na Muzeum ani za kradzieżą Włóczni z Ceren. To organizacja osłabiona, tropiona i obwiniana o cudze czyny – co czyni ją potencjalnym, zdesperowanym **sojusznikiem graczy** szukającym wsparcia.
+
+### Lady Vesna – osoba w polu widzenia
+
+Pentagram odnotował **[[Vesna|Lady Vesnę]]** jako **nauczycielkę króla [[Kis-Amira|Aziru-Kesha]]**, lecz poza tym **wie o niej bardzo niewiele**. Jej prawdziwy wiek, pochodzenie oraz charakter jej mocy pozostają dla organizacji nieprzejrzyste – co dla wywiadu rutynowo infiltrującego dwory stanowi rzadkość i potencjalny sygnał ostrzegawczy. Vesna nie jest świadoma istnienia Pentagramu.
+
 ### Postawa wobec [[Nefilim]]
 
 **Pentagram nie posiada jeszcze wiedzy o istnieniu [[Nefilim]]**. Organizacja prowadzi obecnie dochodzenie w sprawie **upadku elfickiego miasta Cerem** – zagadkowego wydarzenia, w którym zaginęli agenci polowi. W przypadku odkrycia obecności Nefilim w regionie, Pentagram przyjmie **postawę zdecydowanie wrogą** wobec tej frakcji.

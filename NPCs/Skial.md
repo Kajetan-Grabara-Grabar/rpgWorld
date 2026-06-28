@@ -2,6 +2,15 @@
 
 ## Notatki dla Mistrza Gry
 
+### Aktualizacja / retcon (najważniejsze dla MG)
+
+> **Uwaga**: Poniższa karta powstała w realiach Aktu 1 i opisuje Skiala jako agenta **Cohors Liber** ([[Nefilim]]). Zgodnie z aktualnym ustaleniem kampanii ten obraz został **zretconowany** – obowiązują poniższe fakty, a wzmianki o „Cohors Liber" niżej traktować jako nieaktualne.
+
+- **Przynależność**: Skial współpracuje z **Cohors Vigilis** (nie z Cohors Liber).
+- **Przeszłość**: Skial jest **byłym szefem kontrwywiadu Ceren** – stąd jego szpiegowski warsztat, czujność i opanowanie. Zna się na rzeczy jak mało kto.
+- **Teren Cohors Vigilis**: Cohors Vigilis operuje **typowo w samym Ceren** – to jej rewir.
+- **Z kim naprawdę się starli**: Ekspedycje wysłane ku Ceren – zespół [[SpotkanieZeSłowikiem|Słowika]] oraz drugi zespół – **nie miały styczności** z Cohors Vigilis (były zresztą zbyt nieliczne, by cokolwiek poważnego osiągnąć). To dopiero **agenci [[Pentagram|Pentagramu]] pozostali w Kis-Amirze** zmierzyli się ze Skialem i Cohors Vigilis (zob. [[Nagonka|tło nagonki na Pentagram]]).
+
 ### Wygląd i osobowość
 
 Skial to jednooki mężczyzna w średnim wieku. Jego twarz jest pokryta licznymi bliznami. Ubrany jest w niegarbowane skóry zwierząt, a przy pasie zwisa mu topór. Wygląda jak typowy mieszkaniec gór – dość rzadki widok w okolicach [[Wielka Biblioteka|Wielkiej Biblioteki]].

@@ -1,5 +1,5 @@
 
-Wieść Janowice mieszcząca się jakieś pół dnia piechotą od Kis-Amiry. Kilkanaście zbitych z desek i krytych strzechą domów umieszczonych wokół starorzytnego monolitu pod którym stoi sobie mała platforma służaca do przemówiem i wiejskich przedstawień. 
+Wieść Janowice mieszcząca się jakieś pół dnia piechotą od [[Kis-Amira|Kis-Amiry]]. Kilkanaście zbitych z desek i krytych strzechą domów umieszczonych wokół starorzytnego monolitu pod którym stoi sobie mała platforma służaca do przemówiem i wiejskich przedstawień. 
 
 Janowice są powiązane z zadaniem z Gildii Gryfa o ginących w lecie ludziach. 
 
@@ -16,3 +16,17 @@ W domu sołtysa (najbardziej okazałym budynku naprzeciwko mównicy) można znal
 Dzieci opowiadają, że dziś nad ranem ludzie zaczęli wychodzić z domów jak w transie i iść w stronę domu miejscowej czarownicy. Według dziecięcej plotki **czarownica wykorzystuje ludzi do pradawnego rytuału, aby żyć wiecznie**.
 
 Wszystkie pięcioro dzieci ma na szyjach naszyjniki z małymi kamieniami z runami bogini Morkai. Znaki runiczne lekko błyszczą w ciemnościach fioletowym blaskiem. Mówią, że dostały je od „złej czarownicy", aby nie trapiła ich dziwna choroba, która wcześniej dotykała całą wieś. 
+
+## Zdzisław (szczur)
+
+W jednej z chat gracze mogą znaleźć **Zdzisława** – bardzo dużego szczura z kokardką i obróżką. Siedzi spokojnie przy swoich podpisanych miskach i wyraźnie oczekuje, że gracze go nakarmią. Najwyraźniej był przez kogoś hołubiony jak domowy pupil.
+
+## Brakujące zwierzęta
+
+We wsi rzuca się w oczy zupełny **brak zwierząt** – nie ma ani inwentarza gospodarczego, ani zwierząt domowych (poza Zdzisławem). Dopytane o to dzieci mogą powiedzieć, że już po zniknięciu mieszkańców **ktoś przyszedł i zabrał same zwierzęta**.
+
+---
+
+## Notatki dla Mistrza Gry
+
+**Notatka – Kradzież zwierząt (informacja tylko dla MG)**: Dzieci nie wiedzą, kim byli ci ludzie, więc tego nie powiedzą. W rzeczywistości byli to mieszkańcy **Pawłowic** – sąsiedniej wsi kilka kilometrów na zachód. Postanowili wykorzystać tragedię Janowic, by się wzbogacić, i uprowadzili pozostawiony inwentarz. Pawłowice i Janowice od dawna **żyją w niezgodzie**, mimo że ich założyciele – **Paweł i Jan** – byli braćmi.
