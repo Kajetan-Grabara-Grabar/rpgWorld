@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AKT_2/Sesja5/Sesja5.md",
+                "file": "AKT_3/NPCs/SmoczyJeźdźcy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesja5"
+              "title": "SmoczyJeźdźcy"
             }
           },
           {
@@ -242,9 +242,24 @@
   },
   "active": "331bdc3b27255c6b",
   "lastOpenFiles": [
+    "AKT_3/NPCs/KorsarzeZTępejGóry.md",
+    "AKT_3/NPCs/CohorsVigilis.md",
+    "AKT_3/Lokacje/MiasteczkoNadBiblioteką.md",
+    "AKT_3/Lokacje",
+    "AKT_3/NPCs/SmoczyJeźdźcy.md",
+    "AKT_3/Wprowadzenie.md",
+    "AKT_3/NPCs/SmoczyJeźdzcy.md",
+    "AKT_3/NPCs",
+    "AKT_2/LosoweSpotkania/PałacykVesny.md",
+    "AKT_2/Sesja4/PrzygodaLiona.md",
+    "AKT_2/Lokacje/DrogaDoMostu.md",
+    "Świat/Kur-Nu-Gi-A_DlaNowegoGracza.md",
+    "Świat/KompleksKur-Nu-Gi-A.md",
+    "Świat/OpisŚwiata.md",
+    "AKT_2/Lokacje/Pawłowice.md",
+    "AKT_2/Sesja5/Sesja5.md",
     "Popielice.md",
     "AKT_2/LosoweSpotkania/SpotkanieZeSłowikiem.md",
-    "AKT_2/Sesja5/Sesja5.md",
     "AKT_2/LosoweSpotkania/Nagonka.md",
     "AKT_2/Sesja5",
     "AKT_2/Lokacje/Janowice.md",
@@ -256,27 +271,12 @@
     "AKT_2/Lokacje/Kis-Amira.md",
     "AKT_2/Lokacje/TawernaPrzedBramą.md",
     "AKT_2/Lokacje/ZłaCzarownica.md",
-    "AKT_2/NPCs/Vesna.md",
-    "AKT_2/Lokacje/Szpital.md",
-    "AKT_2/LosoweSpotkania/Centaur.md",
-    "AKT_2/LosoweSpotkania/StaraBaba.md",
-    "AKT_2/NPCs/GnomiHandlarze.md",
-    "AKT_2/NPCs/KomandoElfy.md",
-    "AKT_2/NPCs/LeśniBandycji.md",
-    "AKT_2/Sesja4/Sesja4.md",
-    "AKT_2/Sesja4/PrzygodaLiona.md",
-    "AKT_2/NPCs/PojazdKorsarzyPowietrznych.md",
-    "AKT_2/LosoweSpotkania/CohorsCorviPorwaniePrzezElfy.md",
-    "AKT_2/NPCs/KorsarzeZKur-Nu-Gi-A.md",
-    "AKT_2/LosoweSpotkania/PrzerośniętaŚwinkaMorska.md",
     "Technologia",
     "AKT_2/Sesja4",
     "AKT_2/LosoweSpotkania",
     "AKT_3",
     "AKT_2/Sesja3",
     "AKT_2/Wydarzenia",
-    "Untitled",
-    "AKT_2/NPCs",
-    "AKT_2/Lokacje"
+    "Untitled"
   ]
 }

@@ -29,4 +29,6 @@ We wsi rzuca się w oczy zupełny **brak zwierząt** – nie ma ani inwentarza g
 
 ## Notatki dla Mistrza Gry
 
-**Notatka – Kradzież zwierząt (informacja tylko dla MG)**: Dzieci nie wiedzą, kim byli ci ludzie, więc tego nie powiedzą. W rzeczywistości byli to mieszkańcy **Pawłowic** – sąsiedniej wsi kilka kilometrów na zachód. Postanowili wykorzystać tragedię Janowic, by się wzbogacić, i uprowadzili pozostawiony inwentarz. Pawłowice i Janowice od dawna **żyją w niezgodzie**, mimo że ich założyciele – **Paweł i Jan** – byli braćmi.
+**Notatka – Kradzież zwierząt (informacja tylko dla MG)**: Dzieci nie wiedzą, kim byli ci ludzie, więc tego nie powiedzą. W rzeczywistości byli to mieszkańcy **[[AKT_2/Lokacje/Pawłowice|Pawłowic]]** – sąsiedniej wsi kilka kilometrów na zachód. Postanowili wykorzystać tragedię Janowic, by się wzbogacić, i uprowadzili pozostawiony inwentarz. Pawłowice i Janowice od dawna **żyją w niezgodzie**, mimo że ich założyciele – **Paweł i Jan** – byli braćmi.
+
+**Notatka – Rozwiązanie wątku (post factum)**: Wątek skradzionej trzody **zamknął się bez udziału graczy**. Mieszkańcy [[AKT_2/Lokacje/Pawłowice|Pawłowic]] spieniężyli zrabowany inwentarz i wyprawili za te pieniądze **wielką imprezę**, na którą zjechała się okolica. Ponieważ **zwierzęta były nieoznaczone**, sprawa pozostała bezkarna, a Pawłowice obrosły lokalną legendą wspominaną przez licznych NPC (zob. [[AKT_2/Lokacje/Pawłowice|Pawłowice]] i [[AKT_2/Sesja5/Sesja5|Sesja 5]]).
