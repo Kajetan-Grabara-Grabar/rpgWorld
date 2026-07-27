@@ -30,6 +30,18 @@ Grupa konsekwentnie posługuje się **greckimi pseudonimami mitologicznymi** (Kr
 
 Dla uważnego obserwatora pseudonimy brzmią **zbyt teatralnie** jak na faktyczną drużynę poszukiwaczy. To pierwszy sygnał, że pod warstwą wesołej narracji kryje się coś innego.
 
+**Notatka – Prawdziwe imiona (informacja tylko dla MG)**: Pod greckimi pseudonimami kryją się właściwe imiona członków oddziału:
+
+| Pseudonim | Prawdziwe imię |
+| --- | --- |
+| **Kronos** | Kyrin Torvaec |
+| **Prometeusz** | Vorkyl Moradus |
+| **Asklepios** | Aajz Vaanes |
+| **Atlas** | Nemator Zanthor |
+| **Nikolas** | Nikolas Raneil |
+
+Imiona te mogą wypłynąć jako **osobny trop** – w dokumentach, z ust innej jednostki [[Frakcje/Nefilim|Nefilim]] albo gdy ktoś zwróci się do nich prawdziwym mianem, demaskując przykrywkę „drużyny Argonautów".
+
 ## Postawa wobec graczy
 
 Cohors Corvi przyjmuje graczy **gościnnie i pomocnie**:
@@ -88,6 +100,8 @@ Cohors Corvi prowadzi w okolicach kompleksu **rozpoznanie ruchu naziemnego**:
 Gracze prawdopodobnie kwalifikują się do **drugiej kategorii** – grupy obserwowanej, ale na razie nieeliminowanej.
 
 ### Kronos – pomiot przeszłości
+
+**Notatka – Prawdziwe imię (informacja tylko dla MG)**: Prawdziwe imię Kronosa to **Kyrin Torvaec**. „Kronos" to jedynie grecki pseudonim mitologiczny w stylu całego oddziału (por. Prometeusz, Asklepios, Atlas). Imię to może wypłynąć jako **osobny trop** – w dokumentach, z ust innej jednostki [[Frakcje/Nefilim|Nefilim]] albo w konfrontacji, gdy ktoś zwróci się do niego prawdziwym mianem.
 
 Kronos jest postacią szczególną nawet wśród Nefilim. Wróżba [[AKT_2/LosoweSpotkania/StaraBaba|Starej Baby]] na jego temat brzmi: *„Nie mogę dostrzec twojej duszy. Nie pochodzisz z tych stron. Zaszyj się w grobowcu – tam, gdzie twoje miejsce. Pomiocie przeszłości."*
 

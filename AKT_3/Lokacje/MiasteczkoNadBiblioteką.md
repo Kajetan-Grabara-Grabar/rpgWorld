@@ -20,12 +20,18 @@ W bezpośrednim sąsiedztwie wyrwy prowadzącej do [[Lokacje/WielkaBiblioteka|Wi
 
 Porządku wciąż pilnują siły [[Frakcje/RycerzeZakonuRóży|Zakonu Czerwonej Róży]] pod komendą Lorda Komandora **Ejdolona**, lecz garnizon **wyraźnie się wzbogacił**. Rycerze chroniący obiekt wyglądają na zamożniejszych, mają **lepszy sprzęt (głównie cereński)** i jest ich **znacznie więcej** niż wcześniej.
 
+Co istotne, Zakon **wyparł [[Frakcje/Gildie|gildię górniczą]]** i **samodzielnie trzyma porządek** w osadzie – dawni najemnicy gildii wciąż się kręcą, ale jest ich zdecydowanie mniej. Twarzą zbrojnego ramienia Zakonu pozostaje **[[NPCs/Dornan|Brat Dornan]]**, noszący teraz **mechaniczną dłoń**. Pełny obraz zmienionej roli Zakonu w Akcie 3 zawiera nota **[[AKT_3/NPCs/ZakonCzerwonejRóży|Zakon Czerwonej Róży w Kur-Nu-Gi-A (Akt 3)]]**.
+
 ## Kuźnia i warownia Cohors Vigilis
 
 Nowym, ważnym elementem miasteczka jest osiadła tu grupa **[[AKT_3/NPCs/CohorsVigilis|Cohors Vigilis]]** – rzekomych cereńskich rzemieślników i lojalistów. Zajmują się naprawą magitechu oraz **kują na miejscu** wysokiej jakości oręż i wyposażenie dla poszukiwaczy przygód.
 
 - **[[AKT_3/NPCs/CohorsVigilis|Fordo „Mechanik"]]** urządził sobie **laboratorium nad główną salą** w budynku należącym do [[Frakcje/RycerzeZakonuRóży|Zakonu Czerwonej Róży]].
 - Reszta jednostki ulokowała się nieopodal, tworząc **niewielką warownię kamiennych budowli** wewnątrz osady.
+
+## Szpital Białej Róży
+
+Do osady wkroczył także **[[AKT_3/NPCs/ZakonBiałejRóży|Zakon Białej Róży]]**, który **buduje w miasteczku szpital**. Placówki i cywilnej załogi medycznej pilnuje kilku zbrojnych. Nietypowo – wbrew zwyczajowej darmowej opiece – zakon pobiera za usługi **drobną, choć tanią opłatę**. Pełny obraz zawiera nota **[[AKT_3/NPCs/ZakonBiałejRóży|Zakon Białej Róży w Kur-Nu-Gi-A (Akt 3)]]**.
 
 ## Atmosfera i zagrożenia
 

@@ -13,7 +13,7 @@ Członkowie Cohors Obscura prezentują się jako wyjątkowo wysocy mężczyźni 
 | Ranga         | Imię         | Funkcja                          | Charakterystyka                                                                                                                   |
 | ------------- | ------------ | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **Porucznik** | Caelan Thorn | Dowódca                          | Stosunkowo pogodny. Nie wykazuje agresji, jednak wyraźnie reaguje negatywnie na pytania dotyczące pochodzenia i celów ekspedycji. |
-| **Sierżant**  | Ragnar       | Zastępca dowódcy                 | Traktuje wszystkich z wyższością. Niebezpieczny. Emanuje aurą rasowego przestępcy.                                                |
+| **Sierżant**  | Ragnar Greymane | Zastępca dowódcy              | Traktuje wszystkich z wyższością. Niebezpieczny. Emanuje aurą rasowego przestępcy.                                                |
 | **Weteran**   | Lazen        | Specjalista rozpoznania i zwiadu | Obserwuje z dystansu. Nigdy nie angażuje się w bezpośrednie konfrontacje.                                                         |
 | **Weteran**   | Rhedon       | Radiooperator i kartograf        | Cichy. Większość czasu spędza analizując odczyty ze skanerów wyświetlanych na komputerze nadgarstkowym.                           |
 | **Weteran**   | Aurel        | Medyk                            | Dość gadatliwy. Wyposażony w urządzenie medyczne przyczepione do nadgarstka z wystającą wielką igłą i zbiornikami z płynem.       |

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AKT_3/NPCs/SmoczyJeźdźcy.md",
+                "file": "Frakcje/NefilimSłownikPseudonimów.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SmoczyJeźdźcy"
+              "title": "NefilimSłownikPseudonimów"
             }
           },
           {
@@ -242,11 +242,13 @@
   },
   "active": "331bdc3b27255c6b",
   "lastOpenFiles": [
+    "AKT_3/NPCs/ZakonBiałejRóży.md",
+    "AKT_3/NPCs/ZakonCzerwonejRóży.md",
+    "AKT_3/NPCs/SmoczyJeźdźcy.md",
     "AKT_3/NPCs/KorsarzeZTępejGóry.md",
     "AKT_3/NPCs/CohorsVigilis.md",
     "AKT_3/Lokacje/MiasteczkoNadBiblioteką.md",
     "AKT_3/Lokacje",
-    "AKT_3/NPCs/SmoczyJeźdźcy.md",
     "AKT_3/Wprowadzenie.md",
     "AKT_3/NPCs/SmoczyJeźdzcy.md",
     "AKT_3/NPCs",
@@ -269,8 +271,6 @@
     "AKT_2/Lokacje/RozbitaKarawela.md",
     "AKT_2/Lokacje/Muzeum.md",
     "AKT_2/Lokacje/Kis-Amira.md",
-    "AKT_2/Lokacje/TawernaPrzedBramą.md",
-    "AKT_2/Lokacje/ZłaCzarownica.md",
     "Technologia",
     "AKT_2/Sesja4",
     "AKT_2/LosoweSpotkania",
