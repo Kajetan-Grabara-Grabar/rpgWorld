@@ -49,5 +49,6 @@ Fordo urządził sobie **małe laboratorium nad główną salą** w budynku nale
 - **Kronos jako gość** – obecność [[AKT_2/LosoweSpotkania/CohorsCorvi|Kronosa]] u Fordo wiąże Vigilis z [[AKT_2/LosoweSpotkania/CohorsCorvi|Cohors Corvi]]; gracze, którzy znają Kronosa, mogą trafić na Vigilis przez niego (lub odwrotnie).
 - **Skorumpowany Ejdolon** – Lord Komandor bierze pieniądze Nefilim, nie wiedząc (lub nie chcąc wiedzieć), komu służy. Ujawnienie tego graczom lub Zakonowi to potencjalny punkt zwrotny.
 - **Fałszywy sojusznik** – Fordo może zaoferować drużynie „zlecenia" (naprawy, sprzęt, tropy o dziedzicu Ceren), które w rzeczywistości kierują ich prosto w rejony pełne skarabów, z korzyścią dla Cohors Mortis.
+- **Otwarte laboratorium** – gotowa scena śledcza: [[AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/LaboratoriumFordo|Laboratorium Fordo]]. Wywołany do awarii pieca Mechanik zostawia pracownię otwartą, a drużyna dostaje krótkie okno na przeszukanie jej.
 
 **Notatka – Sugerowane wykorzystanie**: Cohors Vigilis to **ukryta ręka Nefilim w miasteczku** – pozornie życzliwi rzemieślnicy i informatorzy, faktycznie manipulujący ruchem awanturników. Sprawdzą się jako źródło zleceń i zaopatrzenia z podwójnym dnem, jako wątek śledczy (kto naprawdę rządzi miasteczkiem) oraz jako pomost między lokalnym życiem osady a wielką operacją Nefilim w [[Świat/KompleksKur-Nu-Gi-A|Kur-Nu-Gi-A]].

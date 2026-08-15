@@ -5,7 +5,7 @@
 - **Baron Kaspar Velaren** – Pracodawca, organizator i przywódca wyprawy
 - **[[NPCs/Ishara|Ishara]]** – Eksploratorka, weteranka kompleksu (znana drużynie z Aktu 1)
 - **Borzywoj Kruczogłów** – Wojownik-zabijaka, prawdopodobnie były [[Frakcje/RycerzeZakonuRóży|rycerz Czerwonej Róży]]
-- **Vesna Nocnikowa** – Łotrzyca i skrytobójczyni
+- **Vess Nocnikowa** – Łotrzyca i skrytobójczyni
 - **Magnus Popielarz** – Mag bojowy, weteran wojny z orkami
 - **Brat Tymoteusz** – Medyk powiązany z [[Frakcje/RycerzeZakonuRóży|Zakonem Białej Róży]]
 - **Jaromir Borowy** – Tropiciel

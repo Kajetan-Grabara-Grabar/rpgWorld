@@ -36,7 +36,7 @@ W kabinie kapitana znajduje się przewrócone biurko. Jedna z szuflad wydaje si�
 
 Pudło jest zabezpieczone magiczną pułapką. Aby je otworzyć, należy zdać test **INS + DEX przy trudności 12**. W przypadku porażki pudło zadaje **5 punktów obrażeń**.
 
-Wewnątrz znajduje się pistolet klasy **archemagitech**:
+Wewnątrz znajduje się pistolet klasy **archemagitech** – **[[AKT_3/Przedmioty/ArcheomagitechZTamarat|Archeomagitech z Tamarat]]**. Poniższy statblock jest wersją poglądową; pełne zasady (dwa tryby ognia i przegrzanie) zawiera osobna notatka przedmiotu:
 
 | Atrybut | Wartość |
 |---|---|

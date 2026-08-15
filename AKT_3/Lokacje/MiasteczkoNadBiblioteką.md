@@ -26,7 +26,7 @@ Co istotne, Zakon **wyparł [[Frakcje/Gildie|gildię górniczą]]** i **samodzie
 
 Nowym, ważnym elementem miasteczka jest osiadła tu grupa **[[AKT_3/NPCs/CohorsVigilis|Cohors Vigilis]]** – rzekomych cereńskich rzemieślników i lojalistów. Zajmują się naprawą magitechu oraz **kują na miejscu** wysokiej jakości oręż i wyposażenie dla poszukiwaczy przygód.
 
-- **[[AKT_3/NPCs/CohorsVigilis|Fordo „Mechanik"]]** urządził sobie **laboratorium nad główną salą** w budynku należącym do [[Frakcje/RycerzeZakonuRóży|Zakonu Czerwonej Róży]].
+- **[[AKT_3/NPCs/CohorsVigilis|Fordo „Mechanik"]]** urządził sobie **laboratorium nad główną salą** w budynku należącym do [[Frakcje/RycerzeZakonuRóży|Zakonu Czerwonej Róży]] – ta sama sala służy za **schronisko** dla wynajętych wypraw (zob. spotkanie [[AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/LaboratoriumFordo|Laboratorium Fordo]]).
 - Reszta jednostki ulokowała się nieopodal, tworząc **niewielką warownię kamiennych budowli** wewnątrz osady.
 
 ## Szpital Białej Róży
