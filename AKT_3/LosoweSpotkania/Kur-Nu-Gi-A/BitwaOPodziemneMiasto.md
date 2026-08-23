@@ -1,48 +1,104 @@
-"To jest nasza szansa, bogarctwo jest na wyciągnięcie ręki. Moment na, który czekaliśmy." - Lord Ejdolon na placu tuż przed wyruszeniem w podziemia.
+# Bitwa o podziemne miasto
 
+> *„To jest nasza szansa. Bogactwo jest na wyciągnięcie ręki. Moment, na który czekaliśmy."*
+> — **Lord Komandor Ejdolon** na placu, tuż przed wyruszeniem w podziemia.
 
-Co się stało? Jedna z drużyn wysłana przez Czerwoną Różę przyniosła informacje, że w mieście w podziemnym kompleksie spotkano muwiącego człowieka zegarka. 
+## Co się stało
 
-Człowiek Zegarek przedstawił się jako Major Domus Króla Kur-Nu-Gi-I. Człowiek zegarek został zabity, ale jego ciało nie zostało wydobyte. Jest pięknie zdobione złotem i klejnotami. Ma ogromną perłę energetyczną w pierści. 
+Jedna z drużyn wysłanych przez **[[AKT_3/NPCs/ZakonCzerwonejRóży|Zakon Czerwonej Róży]]** („Czeru") przyniosła informację, że w **[[Świat/KompleksKur-Nu-Gi-A|mieście w podziemnym kompleksie]]** spotkano **mówiącego [[Lokacje/Katakumby|człowieka-zegarka]]**.
 
+Konstrukt przedstawił się jako **Majordomus Króla Kur-Nu-Gi-A**. Człowieka-zegarka **zabito**, lecz jego ciała **nie wydobyto**. Jest **pięknie zdobione złotem i klejnotami**, a w piersi ma **ogromną perłę energetyczną**.
 
-Dużyny zbierają się, aby wspomóc Czeru. Idą wszyscy poza vesną i nefilim. Oni jako jedyni zostają. 
+**Notatka – Majordomus a bajka o śpiącym królu**: Konstrukt mówiący o sobie jako o **słudze Króla** to bezpośrednie potwierdzenie **bajki o śpiącym królu** z księgi *Kur-Nu-Gi-A: Baśnie i Mity* (zob. [[AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/LaboratoriumFordo|Laboratorium Fordo]]). Jeśli drużyna czytała bajkę, **powinna to złożyć sama** – nikt jej tego nie tłumaczy.
 
+## Wymarsz
 
-Drużyny zjerzdzają za pomocą wind w głąb kompleksu. 
+Drużyny zbierają się, aby **wspomóc Czeru**. Idą **wszyscy poza [[AKT_3/NPCs/WyprawaLadyVesny|Vesną]] i [[Frakcje/Nefilim|Nefilim]]** – tylko oni zostają na powierzchni.
 
-(Lekka walka ze skarabami, coś na podkręcenie napięcia)
+Do kompleksu zjeżdża się **windami**.
 
-Spotkanie się dwóch armii, Cohors Mortis vs Czeru. Bitwo rozpoczyna się na sporym placu od wyzwania Czempiona Cohors Mortis. Czempion wyzywa Czeru, aby Ci posłali tam swojego czepiona do walki jeden na jednego, zwyciężca bierze złote truchło. Czeru nie są za bardzo do tego przekonani, ale przed szereg wychodzi Nimwen i podejmuje wyzwanie krzycząc, że zdrajcy Ceren odbłacą za swoje występki. 
+**Notatka – Kto nie idzie**: Nieobecność Vesny i [[AKT_3/NPCs/CohorsVigilis|Cohors Vigilis]] jest **jedyną wskazówką**, jaką gracze dostają przed finałem bitwy. MG nie powinien jej podkreślać – ma zostać zauważona dopiero po fakcie.
 
-Armia Cohors Mortis dowodzona przez dwóch Nefilim, Czempiona I Reivera. Reiver jest trochę wycofany i obserwuje bitwę zanim się do niej włączy. 
+## Przebieg
 
-Dochodzi to krótkiego pojedynku. 
+### Zejście
 
-"Nimwen dobyła swoją jednoręczną kuszę i wystrzeliła w tronę czempiona kilkanaście ostrych jak brzytwa szurikenów. Czempion zasłonił się ręką a szukireny w więkrzości odbiły się od ciężkiego pancera. Kilka wbiło się w pancerz i ekwipunke. Czempion do był pistoletu i w trakcie szarży strzelił dwukronie, kule rozbiły się o perłowe pole ochronne Nimwen. Następnie wojownicy zwarli się w krwawej walce."
+*(Lekka walka ze skarabami – wyłącznie dla podkręcenia napięcia.)*
 
-Mistrz gry rzuca kością. 
-"Nimwen za bardzo polegała na swoim polu ochronnym i pozwoliła, aby drugie zamiast odbić się od tarczy wbiło się w nią i zadało jej śmiercionośną ranę. Wojowniczka padła a Czempion odciął jej głowę. Następnie podniósł ją i pokazał wszystkim zgromadzonym"
+### Spotkanie armii
 
-Niezależnie od wyniku Nimwen przegrywa.
+Na sporym placu dochodzi do **starcia dwóch armii: Cohors Mortis kontra Czeru**.
 
-Ejdolon postanawia nie oddawać skarby i wydaje kompendę do ataku.
+Armią **Cohors Mortis** dowodzi **dwóch [[Frakcje/Nefilim|Nefilim]]: Czempion i [[AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/ReiverZCohorsMortis|Reiver]]**. Reiver jest **wycofany** – obserwuje bitwę, zanim się do niej włączy.
 
-Armie zwierają się, następuje trudna walka złożona z kozich komansów i graczy. 
+### Wyzwanie
 
-W trakcie walki dochodzi do sceny. Operos walczy z kilkoma kozami na raz i wygrywa. Jego umiejętności nie są przesadzone, jest mistrzem. Czempion to zauważa, kończy walkę z Dornanem, rycerz leży na ziemi i krzyczy gdy jego czaszka jest zgniatana przez pancerny but czempiona. 
+Bitwa zaczyna się od **wyzwania rzuconego przez Czempiona Cohors Mortis**: niech Czeru wyślą swojego czempiona do **walki jeden na jednego**, a **zwycięzca bierze złote truchło**.
 
-Czempion atakuje Operosa, ten się broni, ale jest na starconej pozycji. Nie ma tyle siły, aby jednocześnie parować ciosy potężnego miecza i wyprowadzać ataki. Jest poważnie raniony magitechowym ostrzem. Operos upada. Czempion szukona nowego godnego przeciwnika. 
+Czeru **nie są do tego przekonani**, lecz przed szereg wychodzi **[[AKT_3/NPCs/SmoczyJeźdźcy|Nimwen]]** i podejmuje wyzwanie, krzycząc, że **zdrajcy [[Ceren]] odpłacą za swoje występki**.
 
+### Pojedynek
 
-Bitwa kończy się nagłym zwrotem akcji. Gdzieś w oddali następuje seria wybuchów i grzmotów. Pioruny uderzają w sufit. Mortis zaczyna się wycofywać. Ich obóz jest właśnie atakowy. 
+Dochodzi do krótkiego pojedynku:
 
+> Nimwen dobyła swojej jednoręcznej kuszy i wystrzeliła w stronę Czempiona kilkanaście **ostrych jak brzytwa shurikenów**. Czempion zasłonił się ręką, a pociski w większości **odbiły się od ciężkiego pancerza** – kilka wbiło się w płyty i ekwipunek. Czempion dobył pistoletu i w trakcie szarży **strzelił dwukrotnie**; kule rozbiły się o **perłowe pole ochronne** Nimwen. Następnie wojownicy zwarli się w krwawej walce.
 
+**Mistrz Gry rzuca kością.**
 
-Opis Czempiona Cohors Mortis
+> Nimwen **za bardzo polegała na swoim polu ochronnym** i pozwoliła, by drugie ostrze zamiast odbić się od tarczy **wbiło się w nią** i zadało śmiercionośną ranę. Wojowniczka padła, a Czempion **odciął jej głowę**, po czym podniósł ją i pokazał wszystkim zgromadzonym.
 
-Wielki humanoid w pancerzu wspomaganym, nabardziej masywny jaki gracze do tej pory widzieli. Dzierży miecz (Nie perłowy), który mieni się wszystkimi kolorami, gdy jest aktywowany. Jest to bliżej nie znany magitech. Ma na wyposarzeniu dodatkowo pistolei i kilka granatów. Z pasa zwisa kilka run, co daje mu przewagę w walce.
+**Niezależnie od wyniku rzutu – Nimwen przegrywa.**
 
-Reiver - Bardzo przypomina wojoników Cohors Obsura, a zwłaszcza Thorna i Ragnara. 
+**Notatka – Rzut jest teatrem**: Kość służy wyłącznie **napięciu**; wynik nie zmienia finału. MG rzuca **jawnie**, żeby gracze uwierzyli, że stawka jest otwarta. Zmienić może się **sposób** śmierci Nimwen, nie sam fakt.
 
-Obytwoje mają czarne pancerze z czerwonymi akcentami pokazującymi ich przynależność do królowej. Na pancerzach wydnieją napisy "Cohors Mortis". Dla kontrastu Obsura miała pancerze bez oznaczeń. 
+### Atak
+
+**Ejdolon postanawia nie oddawać skarbu** i wydaje **komendę do ataku**.
+
+Armie zwierają się. Następuje **trudna walka** złożona z **kozich komand** i graczy.
+
+### Scena – Operos i Czempion
+
+W trakcie walki:
+
+**[[AKT_3/NPCs/TesporoMendursOperosO|Operos]]** walczy z **kilkoma kozami naraz i wygrywa**. Jego umiejętności **nie są przesadzone** – jest po prostu **mistrzem**.
+
+Czempion to zauważa. **Kończy walkę z [[NPCs/Dornan|Dornanem]]** – rycerz leży na ziemi i **krzyczy, gdy jego czaszkę zgniata pancerny but Czempiona**.
+
+Czempion atakuje Operosa. Ten **broni się, ale jest na straconej pozycji** – nie ma dość siły, by jednocześnie parować ciosy potężnego miecza i wyprowadzać ataki. Zostaje **poważnie raniony magitechowym ostrzem** i upada.
+
+Czempion **szuka nowego godnego przeciwnika**.
+
+**Notatka – To jest chwila graczy**: Scena kończy się na tym, że Czempion **rozgląda się za kolejnym celem** – po tym, jak na oczach drużyny zabił Dornana i powalił mistrza miecza. MG powinien **zatrzymać się dokładnie tutaj** i pozwolić graczom zdecydować, czy chcą zostać zauważeni.
+
+**Notatka – Operos wbrew sobie**: Profil Tespora to **tchórzostwo przebrane za elegancję** – *„nigdy nie jest w kadrze, kiedy ktoś ginie"* (zob. [[AKT_3/NPCs/TesporoMendursOperosO|jego karta]]). Tutaj **staje do walki i przegrywa na oczach wszystkich**. MG powinien zdecydować, czy to **złamanie wzorca** (moment, w którym Tesporo wreszcie nie ucieka – i płaci za to), czy przeciwnie: bronił się, bo **nie było dokąd uciec**. Obie wersje działają, ale znaczą coś zupełnie innego.
+
+### Zwrot akcji
+
+Bitwa kończy się **nagle**. Gdzieś w oddali następuje **seria wybuchów i grzmotów**. **Pioruny uderzają w sufit.** Cohors Mortis **zaczyna się wycofywać** – ich **obóz jest właśnie atakowany**.
+
+**Notatka – Kto atakuje obóz**: Odpowiedź jest **w tym, kto został na powierzchni** – [[AKT_3/NPCs/WyprawaLadyVesny|Vesna]] i [[Frakcje/Nefilim|Nefilim]]. MG rozstrzyga, czy bitwa była **przynętą**, kto ją zaplanował i czy Czeru zostali użyci jako **młot**, podczas gdy ktoś inny uderzył w kowadło. Gracze nie muszą się tego dowiedzieć od razu.
+
+---
+
+## Opis Czempiona Cohors Mortis
+
+**Wielki humanoid w pancerzu wspomaganym** – **najbardziej masywnym, jaki gracze do tej pory widzieli**.
+
+- Dzierży **miecz** (**nie perłowy**), który **mieni się wszystkimi kolorami**, gdy jest aktywowany. To **bliżej nieznany magitech**.
+- Na wyposażeniu ma dodatkowo **pistolet** i **kilka granatów**.
+- Z pasa zwisa **kilka run**, co daje mu **przewagę w walce**.
+
+**Notatka – Runy u pasa**: Czempion **nosi runy**, a [[AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/ReiverZCohorsMortis|Reiver]] **świadomie z nich zrezygnował** na rzecz magitechu perłowego. To **widoczna różnica między dwoma dowódcami tej samej jednostki** – i potwierdzenie, że jednego z drugim nie da się mieć naraz.
+
+## Opis Reivera
+
+**[[AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/ReiverZCohorsMortis|Reiver]]** bardzo przypomina wojowników **[[NPCs/CohorsObscura|Cohors Obscury]]**, a zwłaszcza **Thorna i Ragnara**.
+
+## Pancerze Cohors Mortis
+
+Oboje – Czempion i Reiver – noszą **czarne pancerze z czerwonymi akcentami**, oznaczającymi **przynależność do królowej**. Na płytach widnieją napisy **„Cohors Mortis"**.
+
+Dla kontrastu **[[NPCs/CohorsObscura|Cohors Obscura]] nosiła pancerze bez żadnych oznaczeń**.
+
+**Notatka – Oznaczenia jako informacja**: Jawne napisy na pancerzach to **zmiana zachowania [[Frakcje/Nefilim|Nefilim]]**. Obscura działała bez oznaczeń, czyli **w ukryciu**; Mortis wychodzi do bitwy **podpisana**. Gracze, którzy pamiętają Thorna i Ragnara z Aktu 1, mają prawo uznać to za sygnał, że **Nefilim przestali się kryć**.
