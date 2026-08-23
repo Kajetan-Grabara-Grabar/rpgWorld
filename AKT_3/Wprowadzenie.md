@@ -71,7 +71,7 @@ Podziemny kompleks okazuje się być **znacznie większy**, niż komukolwiek si�
 
 **Notatka – Implikacje fabularne**: Przebudzenie kompleksu stanowi eskalację napięcia kampanii. To, co dotąd było statyczną lokacją do eksploracji, staje się aktywnym, potencjalnie wrogim środowiskiem. Gracze powinni odczuwać rosnący niepokój – podziemia nie są już martwymi ruinami, lecz czymś, co reaguje na obecność intruzów.
 
-**Notatka – Mapa jako hook fabularny**: Mapa porzucona przez korsarzy stanowi kluczowy element napędowy Aktu 3. Odkrycie trzeciego wejścia i wiedza o działalności [[Frakcje/Nefilim|Nefilim]] w podziemiach daje graczom nowy cel eksploracyjny i pogłębia tajemnicę kompleksu. Gracze mogą wybrać, czy zbadać Kur-Nu-Gi-A III samodzielnie, czy przekazać informację innym frakcjom.
+**Notatka – Mapa jako hook fabularny**: Rozpisanie trzech punktów zawiera nota **[[AKT_3/Lokacje/TrzyWejściaKur-Nu-Gi-A|Trzy wejścia do Kur-Nu-Gi-A]]** (odczytanie mapy wymaga pomocy załogi **[[AKT_3/NPCs/WyprawaLadyVesny|floty lady Vesny]]**). Mapa porzucona przez korsarzy stanowi kluczowy element napędowy Aktu 3. Odkrycie trzeciego wejścia i wiedza o działalności [[Frakcje/Nefilim|Nefilim]] w podziemiach daje graczom nowy cel eksploracyjny i pogłębia tajemnicę kompleksu. Gracze mogą wybrać, czy zbadać Kur-Nu-Gi-A III samodzielnie, czy przekazać informację innym frakcjom.
 
 **Notatka – Lord Kaspar Velaren**: Młody lord może być zarówno obciążeniem (wymaga ochrony, podejmuje ryzykowne decyzje z braku doświadczenia), jak i atutem (zasoby finansowe, kontakty polityczne w Kis-Amirze). Jego reakcja na odkrycie mapy i prawdy o [[Frakcje/Nefilim|Nefilim]] może kształtować dalszy przebieg kampanii – czy zachowa informację dla siebie, czy podzieli się nią z władzami Kis-Amiry?
 

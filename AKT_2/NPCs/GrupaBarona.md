@@ -67,6 +67,7 @@ W praktyce oznacza to, że Kaspar będzie unikał ryzykownych decyzji i polegał
 ### Haki fabularne
 
 - Powrót do [[Świat/KompleksKur-Nu-Gi-A|Kur-Nu-Gi-A]] stanowi otwarcie [[AKT_3/Wprowadzenie|Aktu 3]] – wyprawa pod ochroną drużyny prowadzi prosto w sytuację budzącego się kompleksu i operacji [[Frakcje/Nefilim|Nefilim]].
+- Pierwszym konkretnym zleceniem Barona w Akcie 3 jest zejście do **[[AKT_3/Lokacje/ZagrzybiałaKrypta|Zagrzybiałej Krypty]]** – niezbadanej, płytkiej lokacji, do której wejście umożliwiają jedynie skafandry użyczone przez [[AKT_3/NPCs/CohorsVigilis|Fordo]].
 - Spotkanie z [[NPCs/Ishara|Isharą]] otwiera ciągłość z Aktu 1 – znajoma drużyny dołącza do nowej ekspedycji.
 - Kaspar może okazać się zarówno **obciążeniem** (wymaga ochrony, podejmuje ryzykowne decyzje z braku doświadczenia), jak i **atutem** (zasoby finansowe, kontakty polityczne na dworze **Aziru-Kesha**).
 - Reakcja Barona na odkrycia w podziemiach – zwłaszcza dowody działalności [[Frakcje/Nefilim|Nefilim]] lub przebudzenia kompleksu – może istotnie wpłynąć na rozwój kampanii: zachowa wiedzę dla siebie czy przekaże ją dworowi?

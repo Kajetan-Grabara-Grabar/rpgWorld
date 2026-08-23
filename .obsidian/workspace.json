@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/LaboratoriumFordo.md",
+                "file": "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/BitwaOPodziemneMiasto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LaboratoriumFordo"
+              "title": "BitwaOPodziemneMiasto"
+            }
+          },
+          {
+            "id": "58e8ba3f2c6d7f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AKT_3/NPCs/SmoczyJeźdźcy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SmoczyJeźdźcy"
             }
           }
         ]
@@ -55,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "multi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,11 +201,23 @@
   },
   "active": "168899a1590c9604",
   "lastOpenFiles": [
+    "AKT_3/NPCs/SmoczyJeźdźcy.md",
+    "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/BitwaOPodziemneMiasto.md",
+    "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/ReiverZCohorsMortis.md",
+    "AKT_3/Lokacje/TrzyWejściaKur-Nu-Gi-A.md",
+    "AKT_3/NPCs/WyprawaLadyVesny.md",
     "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/LaboratoriumFordo.md",
+    "AKT_1/IIBitwaOKatedrę.md",
+    "AKT_3/Lokacje/MiasteczkoNadBiblioteką.md",
+    "AKT_3/Lokacje/ZagrzybiałaKrypta.md",
+    "AKT_3/NPCs/CohorsVigilis.md",
+    "AKT_3/Przedmioty/DrugaWiadomośćOdSłowika.md",
+    "AKT_3/Przedmioty/ArcheomagitechZTamarat.md",
+    "AKT_3/NPCs/ZakonBiałejRóży.md",
+    "AKT_3/Wprowadzenie.md.tmp.4441.150f8ed46163",
     "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A",
     "AKT_3/LosoweSpotkania",
     "Frakcje/Pentagram.md",
-    "AKT_3/Przedmioty/DrugaWiadomośćOdSłowika.md",
     "KronikaDrużyny.md.tmp.3986.803dfa7f1322",
     "AKT_3/Sesja6/Sesja6.md",
     "KronikaDrużyny.md",
@@ -206,22 +232,10 @@
     "AKT_2/LosoweSpotkania/CohorsCorviPorwaniePrzezElfy.md",
     "AKT_2/Lokacje/ZłaCzarownica.md",
     "AKT_3/Wprowadzenie.md",
-    "AKT_3/Przedmioty/ArcheomagitechZTamarat.md",
-    "AKT_3/NPCs/ZakonBiałejRóży.md",
-    "Frakcje/RycerzeZakonuRóży.md",
-    "Frakcje/Nefilim.md",
-    "NPCs/Ishara.md",
-    "AKT_2/LosoweSpotkania/CohorsCorvi.md",
-    "AKT_2/NPCs/GrupaBarona.md",
-    "AKT_2/NPCs/KomandoElfy.md",
-    "AKT_2/LosoweSpotkania/PomnikHuberta.md",
-    "AKT_2/Sesja4/PrzygodaLiona.md",
-    "AKT_2/Lokacje/SiedzibaGildiiGryfa.md",
     "AKT_3/Przedmioty",
     "AKT_3/Lokacje",
     "AKT_3/NPCs",
     "AKT_2/Sesja5",
-    "Technologia",
-    "AKT_2/Sesja4"
+    "Technologia"
   ]
 }
