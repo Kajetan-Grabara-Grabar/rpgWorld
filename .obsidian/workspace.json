@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "73ffd921a3c0519b",
+        "id": "bcdb3b2ce0244d18",
         "type": "tabs",
         "children": [
           {
-            "id": "168899a1590c9604",
+            "id": "55e00ace639dbe38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/BitwaOPodziemneMiasto.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "BitwaOPodziemneMiasto"
-            }
-          },
-          {
-            "id": "58e8ba3f2c6d7f92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AKT_3/NPCs/SmoczyJeźdźcy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SmoczyJeźdźcy"
+              "title": "New tab"
             }
           }
         ]
@@ -199,14 +181,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "168899a1590c9604",
+  "active": "24f84ecc6affba17",
   "lastOpenFiles": [
+    "NPCs/LordEjdolon.md",
+    "README.md",
+    "Untitled.md",
+    "Untitled.base",
+    "Untitled 2.md",
+    "Untitled.canvas",
+    "PROPOZYCJE_ULEPSZEŃ.md",
     "AKT_3/NPCs/SmoczyJeźdźcy.md",
-    "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/BitwaOPodziemneMiasto.md",
-    "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/ReiverZCohorsMortis.md",
+    "2026-09-07.md",
     "AKT_3/Lokacje/TrzyWejściaKur-Nu-Gi-A.md",
-    "AKT_3/NPCs/WyprawaLadyVesny.md",
+    "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/Nekropolia.md",
     "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/LaboratoriumFordo.md",
+    "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/BitwaOPodziemneMiasto.md",
+    "AKT_1/Sekcja1/Sekcja1.md",
+    "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/ReiverZCohorsMortis.md",
+    "AKT_3/NPCs/WyprawaLadyVesny.md",
     "AKT_1/IIBitwaOKatedrę.md",
     "AKT_3/Lokacje/MiasteczkoNadBiblioteką.md",
     "AKT_3/Lokacje/ZagrzybiałaKrypta.md",
@@ -223,19 +215,10 @@
     "KronikaDrużyny.md",
     "Frakcje/NefilimSłownikPseudonimów.md",
     "AKT_2/LosoweSpotkania/PałacykVesny.md",
-    "AKT_3/NPCs/TesporoMendursOperosO.md",
     "AKT_3/Sesja6",
-    "AKT_2/LosoweSpotkania/StaraBaba.md",
-    "AKT_2/LosoweSpotkania/SpotkanieZeSłowikiem.md",
-    "AKT_2/NPCs/GnomiHandlarze.md",
-    "AKT_2/LosoweSpotkania/Nagonka.md",
-    "AKT_2/LosoweSpotkania/CohorsCorviPorwaniePrzezElfy.md",
-    "AKT_2/Lokacje/ZłaCzarownica.md",
-    "AKT_3/Wprowadzenie.md",
     "AKT_3/Przedmioty",
     "AKT_3/Lokacje",
     "AKT_3/NPCs",
-    "AKT_2/Sesja5",
-    "Technologia"
+    "AKT_2/Sesja5"
   ]
 }
