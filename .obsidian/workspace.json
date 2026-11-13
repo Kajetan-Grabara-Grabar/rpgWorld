@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bcdb3b2ce0244d18",
+        "id": "aaa45e67edeb23f6",
         "type": "tabs",
         "children": [
           {
-            "id": "55e00ace639dbe38",
+            "id": "17f23aa1d5c74635",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AKT_3/LosoweSpotkania/DomPrzyUroczysku.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DomPrzyUroczysku"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "multi",
+                "query": "DomPrzyUroczysku.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,44 +186,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "24f84ecc6affba17",
+  "active": "17f23aa1d5c74635",
   "lastOpenFiles": [
-    "NPCs/LordEjdolon.md",
-    "README.md",
-    "Untitled.md",
-    "Untitled.base",
-    "Untitled 2.md",
-    "Untitled.canvas",
-    "PROPOZYCJE_ULEPSZEŃ.md",
-    "AKT_3/NPCs/SmoczyJeźdźcy.md",
-    "2026-09-07.md",
     "AKT_3/Lokacje/TrzyWejściaKur-Nu-Gi-A.md",
-    "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/Nekropolia.md",
+    "AKT_3/LosoweSpotkania/DomPrzyUroczysku.md",
+    "AKT_2/LosoweSpotkania/CohorsCorvi.md",
+    "AKT_3/LosoweSpotkania/UroczyskoMorkai.md",
+    "AKT_3/NPCs/CohorsVigilis.md",
     "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/LaboratoriumFordo.md",
-    "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/BitwaOPodziemneMiasto.md",
-    "AKT_1/Sekcja1/Sekcja1.md",
-    "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/ReiverZCohorsMortis.md",
+    "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/BankietULadyVesny.md",
     "AKT_3/NPCs/WyprawaLadyVesny.md",
-    "AKT_1/IIBitwaOKatedrę.md",
+    "Frakcje/Nefilim.md",
+    "AKT_3/UcieczkaZKur-Nu-Gi-A/WariantA_RytuałVesny.md",
+    "AKT_3/UcieczkaZKur-Nu-Gi-A/UcieczkaZKur-Nu-Gi-A.md",
+    "AKT_3/Przedmioty/DrugaWiadomośćOdSłowika.md",
+    "AKT_3/UcieczkaZKur-Nu-Gi-A",
+    "AKT_3/Sesja7.5/StreszczenieDlaGracza.md",
+    "AKT_3/Sesja7.5/Sesja7.5.md",
     "AKT_3/Lokacje/MiasteczkoNadBiblioteką.md",
     "AKT_3/Lokacje/ZagrzybiałaKrypta.md",
-    "AKT_3/NPCs/CohorsVigilis.md",
-    "AKT_3/Przedmioty/DrugaWiadomośćOdSłowika.md",
+    "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/ReiverZCohorsMortis.md",
+    "AKT_3/Sesja7.5/MisjaPenymura.md",
+    "AKT_2/LosoweSpotkania/SpotkanieZeSłowikiem.md",
+    "Technologia/PolaOchronne.md",
     "AKT_3/Przedmioty/ArcheomagitechZTamarat.md",
-    "AKT_3/NPCs/ZakonBiałejRóży.md",
+    "AKT_3/NPCs/SmoczyJeźdźcy.md",
+    "Frakcje/RycerzeZakonuRóży.md",
+    "AKT_2/LosoweSpotkania/PomnikHuberta.md",
+    "AKT_3/NPCs/TesporoMendursOperosO.md",
+    "AKT_3/NPCs/KorsarzeZTępejGóry.md",
+    "AKT_3/Sesja7.5",
+    "AKT_3/Sesja7",
+    "Untitled.base",
+    "Untitled.canvas",
     "AKT_3/Wprowadzenie.md.tmp.4441.150f8ed46163",
     "AKT_3/LosoweSpotkania/Kur-Nu-Gi-A",
     "AKT_3/LosoweSpotkania",
-    "Frakcje/Pentagram.md",
     "KronikaDrużyny.md.tmp.3986.803dfa7f1322",
-    "AKT_3/Sesja6/Sesja6.md",
-    "KronikaDrużyny.md",
-    "Frakcje/NefilimSłownikPseudonimów.md",
-    "AKT_2/LosoweSpotkania/PałacykVesny.md",
     "AKT_3/Sesja6",
-    "AKT_3/Przedmioty",
-    "AKT_3/Lokacje",
-    "AKT_3/NPCs",
-    "AKT_2/Sesja5"
+    "AKT_3/Przedmioty"
   ]
 }

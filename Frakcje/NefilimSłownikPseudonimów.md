@@ -17,6 +17,13 @@ Oddział zwiadowczo-dywersyjny udający *„wesołą drużynę Argonautów"*. Po
 | **Asklepios** | Skel | Aajz Vaanes | Medyk |
 | **Atlas** | — | Nemator Zanthor | Zabijaka, walka w zwarciu |
 | **Nikolas** | Nik | Nikolas Raneil | Zasadzki i pułapki |
+| **Afrodyta** | Afra | Ysmara Kelvaut | Łączniczka; udaje góralkę w [[AKT_3/Lokacje/MiasteczkoNadBiblioteką\|miasteczku]] |
+| **Kadmos** | Runiarz | Thaelor Vyrnas | Mag runiczny |
+| **Kastor** | — | Dravek Ostarin | Zwiadowca, tropiciel |
+| **Ikaros** | Ikar | Joruun Kaelis | Strzelec wyborowy |
+| **Orion** | — | Ulvrek Saranth | Łowca, cicha eliminacja |
+
+**Notatka – Afra i Runiarz**: Obie postacie gracze spotkali w [[AKT_3/Sesja7/Sesja7|Sesji 7]], nie wiedząc, z kim mają do czynienia. **Afra** poręczyła za drużynę przed Zakonem (*„To ludzie barona."*), a **Runiarz** dał jej **runę umbry**. Pseudonim Kadmosa nawiązuje do mitycznego twórcy pisma – stąd runy. Kadmos jest jednym z nielicznych **prawdziwych magów** w oddziale (zob. [[AKT_3/UcieczkaZKur-Nu-Gi-A/WariantA_RytuałVesny|Wariant A – Rytuał Vesny]]).
 
 ## [[AKT_3/NPCs/CohorsVigilis|Cohors Vigilis]]
 

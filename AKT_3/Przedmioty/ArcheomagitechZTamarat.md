@@ -29,11 +29,11 @@ Broń dysponuje dwoma trybami ostrzału. Tryb **Wiązki** deklaruje się **przed
 
 ## Rzut na przegrzanie
 
-Po każdym strzale w trybie **Wiązki** wykonuje się rzut **k6**. Test zdajesz na **3+**.
+Po każdym strzale w trybie **Wiązki** wykonuje się rzut **k6**. Test zdajesz na **2+**.
 
-- Za każdą kolejną Wiązkę w tym samym konflikcie próg rośnie o 1 (3+ → 4+ → 5+ → 6).
-- Jeśli w swojej turze **nie użyjesz Wiązki**, próg spada o 1 (minimum **3+**).
-- Po zakończeniu konfliktu próg wraca do **3+**.
+- Za każdą kolejną Wiązkę w tym samym konflikcie próg rośnie o 1 (2+ → 3+ → 4+ → 5+ → 6).
+- Jeśli w swojej turze **nie użyjesz Wiązki**, próg spada o 1 (minimum **2+**).
+- Po zakończeniu konfliktu próg wraca do **2+**.
 
 **Przegrzanie** (rzut poniżej progu): broń jest **niesprawna do końca twojej następnej tury**. Wybierasz jedno:
 

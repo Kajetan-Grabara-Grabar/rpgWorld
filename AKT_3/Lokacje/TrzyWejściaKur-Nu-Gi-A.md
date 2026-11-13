@@ -49,6 +49,49 @@ Przeciwnicy, na których drużyna trafi, **zależą od tego, kogo weźmie ze sob
 
 **Notatka – Towarzysze związani z Nefilim**: Zabranie [[AKT_2/LosoweSpotkania/CohorsCorvi|Kronosa]] lub Promyczka oznacza, że **[[Frakcje/Nefilim|Nefilim]] wiedzą, że drużyna nadchodzi**. MG rozstrzyga, czy owocuje to zasadzką, „przypadkowo" pustą bazą, czy przekierowaniem bohaterów tam, gdzie ich obecność jest [[AKT_3/NPCs/CohorsVigilis|Cohors Vigilis]] na rękę.
 
+### Wyprawa ze wsparciem Licha
+
+Wariant, w którym drużyna idzie za mapą i dociera do wejścia **ze wsparciem slupu Licho** – najmniejszego okrętu [[AKT_3/NPCs/WyprawaLadyVesny|wyprawy lady Vesny]]. Okręt ląduje w pobliżu polany i czeka na powrót bohaterów.
+
+#### Zniszczony obóz
+
+Polana, na której operowali [[AKT_3/NPCs/KorsarzeZTępejGóry|korsarze z Tępej Góry]] (zob. [[AKT_3/Sesja7.5/MisjaPenymura|Tajna misja Penymura]]), jest **zrujnowana**. Namioty są rozdarte, skrzynie rozbite, rusztowanie nad szybem przechylone. „Starej Wydry" nie ma.
+
+Na skraju polany znajduje się **masowy grób** – świeżo przekopana ziemia, płytko, w pośpiechu. Nieopodal leżą **zwłoki poległego najemnika [[Frakcje/Pentagram|Pentagramu]]**.
+
+#### Atak skarabów
+
+Po chwili z szybu i z lasu nadciągają **skaraby**. Jest ich zbyt wiele, by podjąć walkę – drużyna zostaje **zmuszona do ucieczki** i rozpoczyna się starcie w biegu.
+
+Sygnał do odwrotu zależy od składu wyprawy:
+
+- **Z [[Frakcje/Nefilim|Nefilim]] w drużynie** – **[[AKT_2/LosoweSpotkania/CohorsCorvi|Kronos]]** aktywuje **runę mgły**, a zaraz potem **runę światła**, by pozostać widocznym przez mgłę. Świecąc w białej ścianie, krzyczy, że uciekają.
+- **Bez Nefilim** – odwrót ogłasza krzykiem **jeden z żołnierzy Vesny**.
+
+#### Ucieczka na okręt
+
+Ucieczka rozgrywana jest na **trzech zegarach**:
+
+| Zegar | Segmenty | Kogo dotyczy | Co oznacza |
+|---|---|---|---|
+| **Dobieg do okrętu** | 8 | Cała drużyna | Droga z polany do miejsca, w którym stoi Licho. |
+| **Wspinaczka** | 4 | Każdy bohater osobno | Wdrapanie się na pokład po linach i burcie. |
+| **Odlot** | 8 | Okręt | Po jego zapełnieniu Licho **odlatuje** – z bohaterami na pokładzie albo bez nich. |
+
+Gdy bohaterowie dobiegają do okrętu, do jego burt zaczynają **przyczepiać się latające skaraby**.
+
+#### Dalszy przebieg
+
+Od tej chwili akcja jest **otwarta** – zależy od tego, kto zdążył wejść na pokład, kto został na ziemi i co drużyna zrobi ze skarabami na burtach. Pewne jest jedno: **latające skaraby, które przyczepiły się do Licha, doprowadzą do jego strącenia z nieba**.
+
+**Notatka – Skaraby na burtach**: Przyczepione skaraby to **bomba z opóźnionym zapłonem**. Okręt odlatuje, załoga oddycha z ulgą – a stworzenia wciąż są na pokładzie i w poszyciu. Kiedy i gdzie Licho spadnie, MG ustala zależnie od tego, dokąd drużyna chce dolecieć; katastrofa może stać się **początkiem [[AKT_3/UcieczkaZKur-Nu-Gi-A/UcieczkaZKur-Nu-Gi-A|ucieczki z Kur-Nu-Gi-A]]**.
+
+**Notatka – Licho a bankiet**: W [[AKT_3/LosoweSpotkania/Kur-Nu-Gi-A/BankietULadyVesny|zakończeniu A bankietu]] Licho może zostać **wysadzony przez Smoczych Jeźdźców**. Jeśli do tego dojdzie, wsparcia udziela inny okręt floty (**Ogar**), albo wyprawa do III odbywa się bez okrętu.
+
+**Notatka – Kto leży w grobie i kim jest najemnik (do rozstrzygnięcia)**: Masowy grób mogą stanowić **robotnicy z polany** albo **ludzie Cohors Mortis** – i to Nefilim zakopali swoich przed ewakuacją. Kandydatem na poległego najemnika Pentagramu jest **Jinrou Kami**, którego ciało po [[AKT_3/Sesja7.5/Sesja7.5|Sesji 7.5]] zostało w rękach Nefilim. Jeśli Penymur jest na wyprawie, rozpozna towarzysza.
+
+**Notatka – Zegar odlotu**: Zegar odlotu **nie czeka na drużynę**. To decyzja kapitana, który ratuje okręt i załogę – bohaterowie, którzy nie zdążą się wspiąć, zostają na polanie ze skarabami.
+
 ---
 
 ## Notatki dla Mistrza Gry

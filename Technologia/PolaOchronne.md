@@ -145,13 +145,13 @@ Bardzo niewiele wiadomo. Efekt trafień jak **twarde szkło**. Niemal nie da si�
 
 ## Tabela zbiorcza
 
-| Typ | Pokrycie | Twarda/miękka | Mocna strona | Tryb awarii | Status |
-|---|---|---|---|---|---|
-| Pole perłowe | okólne, osobiste | (magiczne) | uniwersalne, życzeniowe | magia ciemności / zakłócenia | rzadkie, droższe od złota |
-| Pył osobisty | okólne, osobiste | miękka | atak dystansowy | zwarcie/powolny atak wchodzi do środka | używane |
-| Pył okrętowy | bańka wokół statku | miękka | kinetyka, magia, chemia | zwarcie, długie oddziaływanie, lance | używane (ciężkie jednostki) |
-| Projektor | wycinek sfery | twarda | bardzo mocna, regulowana | wyładowanie kondensatora → pęknięcie | nieprodukowany, relikt |
-| Prawdziwa tarcza | nieznane | twarda | niemal nieprzebijalna | nieznany | relikt/legenda |
+| Typ              | Pokrycie           | Twarda/miękka | Mocna strona             | Tryb awarii                            | Status                      |
+| ---------------- | ------------------ | ------------- | ------------------------ | -------------------------------------- | --------------------------- |
+| Pole perłowe     | okólne, osobiste   | (magiczne)    | uniwersalne, życzeniowe  | magia ciemności / zakłócenia           | rzadkie, droższe od złota   |
+| Pył osobisty     | okólne, osobiste   | miękka        | atak dystansowy          | zwarcie/powolny atak wchodzi do środka | używane                     |
+| Pył okrętowy     | bańka wokół statku | miękka        | kinetyka, magia, chemia  | zwarcie, długie oddziaływanie, lance   | używane (ciężkie jednostki) |
+| Projektor        | wycinek sfery      | twarda        | bardzo mocna, regulowana | wyładowanie kondensatora → pęknięcie   | nieprodukowany, relikt      |
+| Prawdziwa tarcza | nieznane           | twarda        | niemal nieprzebijalna    | nieznany                               | relikt/legenda              |
 
 ---
 

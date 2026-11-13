@@ -32,13 +32,20 @@ Dla uważnego obserwatora pseudonimy brzmią **zbyt teatralnie** jak na faktyczn
 
 **Notatka – Prawdziwe imiona (informacja tylko dla MG)**: Pod greckimi pseudonimami kryją się właściwe imiona członków oddziału:
 
-| Pseudonim | Prawdziwe imię |
-| --- | --- |
-| **Kronos** | Kyrin Torvaec |
-| **Prometeusz** | Vorkyl Moradus |
-| **Asklepios** | Aajz Vaanes |
-| **Atlas** | Nemator Zanthor |
-| **Nikolas** | Nikolas Raneil |
+| Pseudonim            | Prawdziwe imię  |
+| -------------------- | --------------- |
+| **Kronos**           | Kyrin Torvaec   |
+| **Prometeusz**       | Vorkyl Moradus  |
+| **Asklepios**        | Aajz Vaanes     |
+| **Atlas**            | Nemator Zanthor |
+| **Nikolas** (Nik)    | Nikolas Raneil  |
+| **Afrodyta** (Afra)  | Ysmara Kelvaut  |
+| **Kadmos** (Runiarz) | Thaelor Vyrnas  |
+| **Kastor**           | Dravek Ostarin  |
+| **Ikaros** (Ikar)    | Joruun Kaelis   |
+| **Orion**            | Ulvrek Saranth  |
+
+Pięcioro ostatnich należy do **ukrytej części oddziału** – nie siedzą przy ognisku, gdy gracze odwiedzają obóz, i działają w terenie osobno (zob. [[Frakcje/NefilimSłownikPseudonimów|słownik pseudonimów]]).
 
 Imiona te mogą wypłynąć jako **osobny trop** – w dokumentach, z ust innej jednostki [[Frakcje/Nefilim|Nefilim]] albo gdy ktoś zwróci się do nich prawdziwym mianem, demaskując przykrywkę „drużyny Argonautów".
 
